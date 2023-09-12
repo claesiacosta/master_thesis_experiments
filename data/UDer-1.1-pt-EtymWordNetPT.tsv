@@ -1,0 +1,3983 @@
+0.0	Alasca#	Alasca							{}
+0.1	alascano#	alascano				0.0	Type=Derivation		{}
+0.2	alascana#	alascana				0.1	Type=Derivation		{}
+
+1.0	Babilónia#	Babilónia							{}
+1.1	babilónico#	babilónico				1.0	Type=Derivation		{}
+
+2.0	Babilônia#	Babilônia							{}
+2.1	babilônico#	babilônico				2.0	Type=Derivation		{}
+
+3.0	Botsuana#	Botsuana							{}
+3.1	botsuanês#	botsuanês				3.0	Type=Derivation		{}
+
+4.0	Bíblia#	Bíblia							{}
+4.1	bíblico#	bíblico				4.0	Type=Derivation		{}
+4.2	bíblica#	bíblica				4.1	Type=Derivation		{}
+4.3	bíblicas#	bíblicas				4.1	Type=Derivation		{}
+4.4	bíblicos#	bíblicos				4.1	Type=Derivation		{}
+
+5.0	Coréia#	Coréia							{}
+5.1	Coréias#	Coréias				5.0	Type=Derivation		{}
+
+6.0	Honduras#	Honduras							{}
+6.1	hondurenho#	hondurenho				6.0	Type=Derivation		{}
+
+7.0	José#	José							{}
+7.1	Zé#	Zé				7.0	Type=Derivation		{}
+
+8.0	João#	João							{}
+8.1	joanino#	joanino				8.0	Type=Derivation		{}
+
+9.0	Mesopotâmia#	Mesopotâmia							{}
+9.1	mesopotâmia#	mesopotâmia				9.0	Type=Derivation		{}
+
+10.0	Portugal#	Portugal							{}
+10.1	português#	português				10.0	Type=Derivation		{}
+10.2	portuguesa#	portuguesa				10.1	Type=Derivation		{"other_parents": "10.0"}
+
+11.0	Zimbabué#	Zimbabué							{}
+11.1	zimbabuano#	zimbabuano				11.0	Type=Derivation		{}
+11.2	zimbabuense#	zimbabuense				11.0	Type=Derivation		{}
+11.3	zimbabwano#	zimbabwano				11.0	Type=Derivation		{}
+11.4	zimbabwense#	zimbabwense				11.0	Type=Derivation		{}
+
+12.0	abacate#	abacate							{}
+12.1	abacates#	abacates				12.0	Type=Derivation		{}
+
+13.0	abacaxi#	abacaxi							{}
+13.1	abacaxizal#	abacaxizal				13.0	Type=Derivation		{}
+13.2	abacaxizeiro#	abacaxizeiro				13.0	Type=Derivation		{}
+
+14.0	abadessa#	abadessa							{}
+14.1	abadessas#	abadessas				14.0	Type=Derivation		{}
+
+15.0	abajur#	abajur							{}
+15.1	abajures#	abajures				15.0	Type=Derivation		{}
+
+16.0	abdominal#	abdominal							{}
+16.1	abdominais#	abdominais				16.0	Type=Derivation		{}
+
+17.0	abdução#	abdução							{}
+17.1	abduções#	abduções				17.0	Type=Derivation		{}
+
+18.0	abieiro#	abieiro							{}
+18.1	abieiros#	abieiros				18.0	Type=Derivation		{}
+
+19.0	abominação#	abominação							{}
+19.1	abominações#	abominações				19.0	Type=Derivation		{}
+
+20.0	abraçar#	abraçar							{}
+20.1	abraço#	abraço				20.0	Type=Derivation		{}
+20.2	abraços#	abraços				20.1	Type=Derivation		{}
+
+21.0	absoluto#	absoluto							{}
+21.1	absoluta#	absoluta				21.0	Type=Derivation		{}
+
+22.0	abstenção#	abstenção							{}
+22.1	abstenções#	abstenções				22.0	Type=Derivation		{}
+
+23.0	abstracção#	abstracção							{}
+23.1	abstracções#	abstracções				23.0	Type=Derivation		{}
+
+24.0	abstração#	abstração							{}
+24.1	abstrações#	abstrações				24.0	Type=Derivation		{}
+
+25.0	aceitação#	aceitação							{}
+25.1	aceitações#	aceitações				25.0	Type=Derivation		{}
+
+26.0	aceleração#	aceleração							{}
+26.1	acelerações#	acelerações				26.0	Type=Derivation		{}
+
+27.0	acordeão#	acordeão							{}
+27.1	acordeões#	acordeões				27.0	Type=Derivation		{}
+
+28.0	acumulação#	acumulação							{}
+28.1	acumulações#	acumulações				28.0	Type=Derivation		{}
+
+29.0	acusação#	acusação							{}
+29.1	acusações#	acusações				29.0	Type=Derivation		{}
+
+30.0	acção#	acção							{}
+30.1	acções#	acções				30.0	Type=Derivation		{}
+
+31.0	acúmulo#	acúmulo							{}
+31.1	acúmulos#	acúmulos				31.0	Type=Derivation		{}
+
+32.0	adição#	adição							{}
+32.1	adições#	adições				32.0	Type=Derivation		{}
+
+33.0	adjectivo#	adjectivo							{}
+33.1	adjectivas#	adjectivas				33.0	Type=Derivation		{}
+
+34.0	administração#	administração							{}
+34.1	administrações#	administrações				34.0	Type=Derivation		{}
+
+35.0	adopção#	adopção							{}
+35.1	adopções#	adopções				35.0	Type=Derivation		{}
+
+36.0	adoração#	adoração							{}
+36.1	adorações#	adorações				36.0	Type=Derivation		{}
+
+37.0	adoção#	adoção							{}
+37.1	adoções#	adoções				37.0	Type=Derivation		{}
+
+38.0	adverbial#	adverbial							{}
+38.1	adverbiais#	adverbiais				38.0	Type=Derivation		{}
+
+39.0	afetação#	afetação							{}
+39.1	afetações#	afetações				39.0	Type=Derivation		{}
+
+40.0	aflição#	aflição							{}
+40.1	aflições#	aflições				40.0	Type=Derivation		{}
+
+41.0	agir#	agir							{}
+41.1	reagir#	reagir				41.0	Type=Derivation		{}
+
+42.0	agoiro#	agoiro							{}
+42.1	agoiral#	agoiral				42.0	Type=Derivation		{}
+42.2	agoirar#	agoirar				42.0	Type=Derivation		{}
+42.3	agoireiro#	agoireiro				42.0	Type=Derivation		{}
+42.4	agoirentar#	agoirentar				42.0	Type=Derivation		{}
+42.5	agoirento#	agoirento				42.0	Type=Derivation		{}
+
+43.0	agouro#	agouro							{}
+43.1	agoural#	agoural				43.0	Type=Derivation		{}
+43.2	agourar#	agourar				43.0	Type=Derivation		{}
+43.3	agoureiro#	agoureiro				43.0	Type=Derivation		{}
+43.4	agourentar#	agourentar				43.0	Type=Derivation		{}
+43.5	agourento#	agourento				43.0	Type=Derivation		{}
+
+44.0	agradecimento#	agradecimento							{}
+44.1	agradecimentos#	agradecimentos				44.0	Type=Derivation		{}
+
+45.0	agradável#	agradável							{}
+45.1	desagradável#	desagradável				45.0	Type=Derivation		{}
+
+46.0	agrícola#	agrícola							{}
+46.1	agricolamente#	agricolamente				46.0	Type=Derivation		{}
+
+47.0	agulha#	agulha							{}
+47.1	agulhas#	agulhas				47.0	Type=Derivation		{}
+
+48.0	ajuda#	ajuda							{}
+48.1	ajudas#	ajudas				48.0	Type=Derivation		{}
+
+49.0	ala#	ala							{}
+49.1	alas#	alas				49.0	Type=Derivation		{}
+
+50.0	alanina#	alanina							{}
+50.1	alaninas#	alaninas				50.0	Type=Derivation		{}
+
+51.0	alavanca#	alavanca							{}
+51.1	alavancar#	alavancar				51.0	Type=Derivation		{}
+
+52.0	alaúde#	alaúde							{}
+52.1	alaúdes#	alaúdes				52.0	Type=Derivation		{}
+
+53.0	alba#	alba							{}
+53.1	albino#	albino				53.0	Type=Derivation		{}
+
+54.0	albergue#	albergue							{}
+54.1	alberguezinho#	alberguezinho				54.0	Type=Derivation		{}
+54.2	alberguinho#	alberguinho				54.0	Type=Derivation		{}
+
+55.0	alcateia#	alcateia							{}
+55.1	alcatear#	alcatear				55.0	Type=Derivation		{}
+55.2	alcateias#	alcateias				55.0	Type=Derivation		{}
+
+56.0	alfabetização#	alfabetização							{}
+56.1	alfabetizações#	alfabetizações				56.0	Type=Derivation		{}
+
+57.0	alfarrábio#	alfarrábio							{}
+57.1	alfarrábios#	alfarrábios				57.0	Type=Derivation		{}
+
+58.0	alfinete#	alfinete							{}
+58.1	alfinetada#	alfinetada				58.0	Type=Derivation		{}
+58.2	alfinetado#	alfinetado				58.0	Type=Derivation		{}
+58.3	alfinetar#	alfinetar				58.0	Type=Derivation		{}
+58.4	alfineteira#	alfineteira				58.0	Type=Derivation		{}
+
+59.0	alga#	alga							{}
+59.1	algáceo#	algáceo				59.0	Type=Derivation		{}
+
+60.0	algodão#	algodão							{}
+60.1	algodões#	algodões				60.0	Type=Derivation		{}
+
+61.0	algoritmo#	algoritmo							{}
+61.1	algoritmos#	algoritmos				61.0	Type=Derivation		{}
+
+62.0	algum#	algum							{}
+62.1	alguma#	alguma				62.0	Type=Derivation		{}
+62.2	algumas#	algumas				62.0	Type=Derivation		{}
+62.3	alguns#	alguns				62.0	Type=Derivation		{}
+
+63.0	aliança#	aliança							{}
+63.1	alianças#	alianças				63.0	Type=Derivation		{}
+
+64.0	alienação#	alienação							{}
+64.1	alienações#	alienações				64.0	Type=Derivation		{}
+
+65.0	aliteração#	aliteração							{}
+65.1	aliterações#	aliterações				65.0	Type=Derivation		{}
+
+66.0	alucinação#	alucinação							{}
+66.1	alucinações#	alucinações				66.0	Type=Derivation		{}
+
+67.0	aluno#	aluno							{}
+67.1	alunos#	alunos				67.0	Type=Derivation		{}
+
+68.0	alusão#	alusão							{}
+68.1	alusões#	alusões				68.0	Type=Derivation		{}
+
+69.0	alvacento#	alvacento							{}
+69.1	alvacenta#	alvacenta				69.0	Type=Derivation		{}
+
+70.0	alvo#	alvo							{}
+70.1	alva#	alva				70.0	Type=Derivation		{}
+
+71.0	alvor#	alvor							{}
+71.1	alvores#	alvores				71.0	Type=Derivation		{}
+
+72.0	alça#	alça							{}
+72.1	alçar#	alçar				72.0	Type=Derivation		{}
+
+73.0	ambiguidade#	ambiguidade							{}
+73.1	ambiguidades#	ambiguidades				73.0	Type=Derivation		{}
+
+74.0	ambigüidade#	ambigüidade							{}
+74.1	ambigüidades#	ambigüidades				74.0	Type=Derivation		{}
+
+75.0	ambição#	ambição							{}
+75.1	ambições#	ambições				75.0	Type=Derivation		{}
+
+76.0	ambulância#	ambulância							{}
+76.1	ambulâncias#	ambulâncias				76.0	Type=Derivation		{}
+
+77.0	ambíguo#	ambíguo							{}
+77.1	ambiguamente#	ambiguamente				77.0	Type=Derivation		{}
+
+78.0	amedrontado#	amedrontado							{}
+78.1	amedrontada#	amedrontada				78.0	Type=Derivation		{}
+
+79.0	amendoeira#	amendoeira							{}
+79.1	amendoeiras#	amendoeiras				79.0	Type=Derivation		{}
+
+80.0	americano#	americano							{}
+80.1	americanos#	americanos				80.0	Type=Derivation		{}
+
+81.0	amido#	amido							{}
+81.1	amidos#	amidos				81.0	Type=Derivation		{}
+
+82.0	amêndoa#	amêndoa							{}
+82.1	amêndoas#	amêndoas				82.0	Type=Derivation		{}
+
+83.0	anaconda#	anaconda							{}
+83.1	anacondas#	anacondas				83.0	Type=Derivation		{}
+
+84.0	analógico#	analógico							{}
+84.1	analógica#	analógica				84.0	Type=Derivation		{}
+84.2	analógicas#	analógicas				84.0	Type=Derivation		{}
+84.3	analógicos#	analógicos				84.0	Type=Derivation		{}
+
+85.0	andróide#	andróide							{}
+85.1	andróides#	andróides				85.0	Type=Derivation		{}
+
+86.0	anglicismo#	anglicismo							{}
+86.1	anglicizar#	anglicizar				86.0	Type=Derivation		{}
+
+87.0	anglo#	anglo							{}
+87.1	anglizar#	anglizar				87.0	Type=Derivation		{}
+87.2	anglofilia#	anglofilia				87.0	Type=Derivation		{}
+87.3	anglofobia#	anglofobia				87.0	Type=Derivation		{}
+87.4	anglomania#	anglomania				87.0	Type=Derivation		{}
+87.5	anglomaníaco#	anglomaníaco				87.0	Type=Derivation		{}
+87.6	anglófilo#	anglófilo				87.0	Type=Derivation		{}
+87.7	anglófobo#	anglófobo				87.0	Type=Derivation		{}
+
+88.0	animação#	animação							{}
+88.1	animações#	animações				88.0	Type=Derivation		{}
+
+89.0	antigo#	antigo							{}
+89.1	antiga#	antiga				89.0	Type=Derivation		{}
+89.2	antigas#	antigas				89.0	Type=Derivation		{}
+89.3	antigos#	antigos				89.0	Type=Derivation		{}
+
+90.0	antropologia#	antropologia							{}
+90.1	antropologias#	antropologias				90.0	Type=Derivation		{}
+
+91.0	antropológico#	antropológico							{}
+91.1	antropológica#	antropológica				91.0	Type=Derivation		{}
+
+92.0	antropólogo#	antropólogo							{}
+92.1	antropólogos#	antropólogos				92.0	Type=Derivation		{}
+
+93.0	antónimo#	antónimo							{}
+93.1	antonímia#	antonímia				93.0	Type=Derivation		{}
+
+94.0	anual#	anual							{}
+94.1	anualmente#	anualmente				94.0	Type=Derivation		{}
+
+95.0	anáfora#	anáfora							{}
+95.1	anáforas#	anáforas				95.0	Type=Derivation		{}
+
+96.0	apanhar#	apanhar							{}
+96.1	apanha#	apanha				96.0	Type=Derivation		{}
+96.2	apanhadeira#	apanhadeira				96.0	Type=Derivation		{}
+96.3	apanhado#	apanhado				96.0	Type=Derivation		{}
+96.4	apanhador#	apanhador				96.0	Type=Derivation		{}
+
+97.0	aplicar#	aplicar							{}
+97.1	aplicabilidade#	aplicabilidade				97.0	Type=Derivation		{}
+97.2	aplicado#	aplicado				97.0	Type=Derivation		{}
+97.3	aplicador#	aplicador				97.0	Type=Derivation		{}
+97.4	aplicante#	aplicante				97.0	Type=Derivation		{}
+97.5	aplicativo#	aplicativo				97.0	Type=Derivation		{}
+97.6	aplicação#	aplicação				97.0	Type=Derivation		{}
+97.7	aplicações#	aplicações				97.6	Type=Derivation		{}
+97.8	aplicável#	aplicável				97.0	Type=Derivation		{}
+
+98.0	aprendiz#	aprendiz							{}
+98.1	aprendizes#	aprendizes				98.0	Type=Derivation		{}
+
+99.0	apresentação#	apresentação							{}
+99.1	apresentações#	apresentações				99.0	Type=Derivation		{}
+
+100.0	apóstolo#	apóstolo							{}
+100.1	apostolado#	apostolado				100.0	Type=Derivation		{}
+100.2	apostólico#	apostólico				100.0	Type=Derivation		{}
+
+101.0	aquele#	aquele							{}
+101.1	aquelas#	aquelas				101.0	Type=Derivation		{}
+101.2	aqueles#	aqueles				101.0	Type=Derivation		{}
+
+102.0	aqui#	aqui							{}
+102.1	daqui#	daqui				102.0	Type=Derivation		{}
+
+103.0	aquário#	aquário							{}
+103.1	aquários#	aquários				103.0	Type=Derivation		{}
+
+104.0	aquênio#	aquênio							{}
+104.1	aquênios#	aquênios				104.0	Type=Derivation		{}
+
+105.0	aranha#	aranha							{}
+105.1	aranhagato#	aranhagato				105.0	Type=Derivation		{}
+105.2	aranhar#	aranhar				105.0	Type=Derivation		{}
+105.3	aranhaçu#	aranhaçu				105.0	Type=Derivation		{}
+105.4	aranheira#	aranheira				105.0	Type=Derivation		{}
+105.5	aranheiras#	aranheiras				105.4	Type=Derivation		{}
+105.6	aranheiro#	aranheiro				105.0	Type=Derivation		{}
+105.7	aranhense#	aranhense				105.0	Type=Derivation		{}
+105.8	aranhento#	aranhento				105.0	Type=Derivation		{}
+105.9	aranhiço#	aranhiço				105.0	Type=Derivation		{}
+105.10	aranhol#	aranhol				105.0	Type=Derivation		{}
+105.11	aranhola#	aranhola				105.0	Type=Derivation		{}
+105.12	aranhoso#	aranhoso				105.0	Type=Derivation		{}
+105.13	aranhota#	aranhota				105.0	Type=Derivation		{}
+105.14	aranhuço#	aranhuço				105.0	Type=Derivation		{}
+105.15	aranhuçu#	aranhuçu				105.0	Type=Derivation		{}
+105.16	aranhão#	aranhão				105.0	Type=Derivation		{}
+
+106.0	arbitrário#	arbitrário							{}
+106.1	arbitrariamente#	arbitrariamente				106.0	Type=Derivation		{}
+
+107.0	arcaico#	arcaico							{}
+107.1	arcaizante#	arcaizante				107.0	Type=Derivation		{}
+107.2	arcaísmo#	arcaísmo				107.0	Type=Derivation		{}
+107.3	arcaísta#	arcaísta				107.0	Type=Derivation		{}
+
+108.0	arco#	arco							{}
+108.1	arcobotante#	arcobotante				108.0	Type=Derivation		{}
+
+109.0	argelino#	argelino							{}
+109.1	argelina#	argelina				109.0	Type=Derivation		{}
+109.2	argelinas#	argelinas				109.0	Type=Derivation		{}
+109.3	argelinos#	argelinos				109.0	Type=Derivation		{}
+
+110.0	armário#	armário							{}
+110.1	armários#	armários				110.0	Type=Derivation		{}
+
+111.0	arpão#	arpão							{}
+111.1	arpões#	arpões				111.0	Type=Derivation		{}
+
+112.0	arqueiro#	arqueiro							{}
+112.1	arqueiros#	arqueiros				112.0	Type=Derivation		{}
+
+113.0	arqueológico#	arqueológico							{}
+113.1	arqueológica#	arqueológica				113.0	Type=Derivation		{}
+113.2	arqueológicas#	arqueológicas				113.0	Type=Derivation		{}
+113.3	arqueológicos#	arqueológicos				113.0	Type=Derivation		{}
+
+114.0	arrogante#	arrogante							{}
+114.1	arrogantes#	arrogantes				114.0	Type=Derivation		{}
+
+115.0	arroz#	arroz							{}
+115.1	arrozes#	arrozes				115.0	Type=Derivation		{}
+
+116.0	artesão#	artesão							{}
+116.1	artesanal#	artesanal				116.0	Type=Derivation		{}
+116.2	artesãos#	artesãos				116.0	Type=Derivation		{}
+
+117.0	artificial#	artificial							{}
+117.1	artificialmente#	artificialmente				117.0	Type=Derivation		{}
+
+118.0	artéria#	artéria							{}
+118.1	artérias#	artérias				118.0	Type=Derivation		{}
+
+119.0	aríete#	aríete							{}
+119.1	aríetes#	aríetes				119.0	Type=Derivation		{}
+
+120.0	assimétrico#	assimétrico							{}
+120.1	assimetricamente#	assimetricamente				120.0	Type=Derivation		{}
+
+121.0	assinalado#	assinalado							{}
+121.1	assinalados#	assinalados				121.0	Type=Derivation		{}
+
+122.0	associação#	associação							{}
+122.1	associações#	associações				122.0	Type=Derivation		{}
+
+123.0	assumir#	assumir							{}
+123.1	assume#	assume				123.0	Type=Derivation		{}
+
+124.0	assumpção#	assumpção							{}
+124.1	assumpções#	assumpções				124.0	Type=Derivation		{}
+
+125.0	assunção#	assunção							{}
+125.1	assunções#	assunções				125.0	Type=Derivation		{}
+
+126.0	astrofísico#	astrofísico							{}
+126.1	astrofísicos#	astrofísicos				126.0	Type=Derivation		{}
+
+127.0	atar#	atar							{}
+127.1	desatar#	desatar				127.0	Type=Derivation		{}
+
+128.0	atento#	atento							{}
+128.1	atenta#	atenta				128.0	Type=Derivation		{}
+
+129.0	atenção#	atenção							{}
+129.1	atenções#	atenções				129.0	Type=Derivation		{}
+
+130.0	ater#	ater							{"other_parents": "130.0"}
+
+131.0	atividade#	atividade							{}
+131.1	atividades#	atividades				131.0	Type=Derivation		{}
+
+132.0	atlas#	atlas							{"other_parents": "132.0"}
+
+133.0	atmosférico#	atmosférico							{}
+133.1	atmosfericamente#	atmosfericamente				133.0	Type=Derivation		{}
+
+134.0	atracção#	atracção							{}
+134.1	atracções#	atracções				134.0	Type=Derivation		{}
+
+135.0	atração#	atração							{}
+135.1	atrações#	atrações				135.0	Type=Derivation		{}
+
+136.0	atributo#	atributo							{}
+136.1	atributos#	atributos				136.0	Type=Derivation		{}
+
+137.0	atriz#	atriz							{}
+137.1	atrizes#	atrizes				137.0	Type=Derivation		{}
+
+138.0	aula#	aula							{}
+138.1	aulas#	aulas				138.0	Type=Derivation		{}
+
+139.0	ausência#	ausência							{}
+139.1	ausências#	ausências				139.0	Type=Derivation		{}
+
+140.0	autocarro#	autocarro							{}
+140.1	autocarros#	autocarros				140.0	Type=Derivation		{}
+
+141.0	autômato#	autômato							{}
+141.1	autômatos#	autômatos				141.0	Type=Derivation		{}
+
+142.0	avaliação#	avaliação							{}
+142.1	avaliações#	avaliações				142.0	Type=Derivation		{}
+
+143.0	avelã#	avelã							{}
+143.1	avelãs#	avelãs				143.0	Type=Derivation		{}
+
+144.0	aventureiro#	aventureiro							{}
+144.1	aventureirismo#	aventureirismo				144.0	Type=Derivation		{}
+
+145.0	aversão#	aversão							{}
+145.1	aversões#	aversões				145.0	Type=Derivation		{}
+
+146.0	avião#	avião							{}
+146.1	aviões#	aviões				146.0	Type=Derivation		{}
+
+147.0	avó#	avó							{}
+147.1	avós#	avós				147.0	Type=Derivation		{}
+
+148.0	avô#	avô							{}
+148.1	avôs#	avôs				148.0	Type=Derivation		{}
+
+149.0	açaí#	açaí							{}
+149.1	açaís#	açaís				149.0	Type=Derivation		{}
+
+150.0	açor#	açor							{}
+150.1	açorado#	açorado				150.0	Type=Derivation		{}
+150.2	açorar#	açorar				150.0	Type=Derivation		{}
+
+151.0	bacalhau#	bacalhau							{}
+151.1	bacalhaus#	bacalhaus				151.0	Type=Derivation		{}
+
+152.0	bacará#	bacará							{}
+152.1	bacarás#	bacarás				152.0	Type=Derivation		{}
+
+153.0	bacharelado#	bacharelado							{}
+153.1	bacharelada#	bacharelada				153.0	Type=Derivation		{}
+
+154.0	balcão#	balcão							{}
+154.1	balcões#	balcões				154.0	Type=Derivation		{}
+
+155.0	baleeiro#	baleeiro							{}
+155.1	baleeiros#	baleeiros				155.0	Type=Derivation		{}
+
+156.0	banco#	banco							{}
+156.1	bancos#	bancos				156.0	Type=Derivation		{}
+
+157.0	banheira#	banheira							{}
+157.1	banheiras#	banheiras				157.0	Type=Derivation		{}
+
+158.0	banheiro#	banheiro							{}
+158.1	banheiros#	banheiros				158.0	Type=Derivation		{}
+
+159.0	bastão#	bastão							{}
+159.1	bastões#	bastões				159.0	Type=Derivation		{}
+
+160.0	baço#	baço							{}
+160.1	baços#	baços				160.0	Type=Derivation		{}
+
+161.0	baía#	baía							{}
+161.1	baías#	baías				161.0	Type=Derivation		{}
+
+162.0	bebê#	bebê							{}
+162.1	bebês#	bebês				162.0	Type=Derivation		{}
+
+163.0	beijo#	beijo							{}
+163.1	beijos#	beijos				163.0	Type=Derivation		{}
+
+164.0	belo#	belo							{}
+164.1	bela#	bela				164.0	Type=Derivation		{}
+
+165.0	bem#	bem							{}
+165.1	parabéns#	parabéns				165.0	Type=Derivation		{}
+165.2	também#	também				165.0	Type=Derivation		{}
+
+166.0	benevolente#	benevolente							{}
+166.1	benevolentes#	benevolentes				166.0	Type=Derivation		{}
+166.2	benevolência#	benevolência				166.0	Type=Derivation		{}
+
+167.0	beringela#	beringela							{}
+167.1	beringelas#	beringelas				167.0	Type=Derivation		{}
+
+168.0	berinjela#	berinjela							{}
+168.1	berinjelas#	berinjelas				168.0	Type=Derivation		{}
+
+169.0	berrar#	berrar							{}
+169.1	berro#	berro				169.0	Type=Derivation		{}
+
+170.0	berço#	berço							{}
+170.1	berços#	berços				170.0	Type=Derivation		{}
+
+171.0	besouro#	besouro							{}
+171.1	besouros#	besouros				171.0	Type=Derivation		{}
+
+172.0	bexiga#	bexiga							{}
+172.1	bexigas#	bexigas				172.0	Type=Derivation		{}
+
+173.0	biberão#	biberão							{}
+173.1	biberões#	biberões				173.0	Type=Derivation		{}
+
+174.0	bicho#	bicho							{}
+174.1	bicha#	bicha				174.0	Type=Derivation		{}
+174.2	bichinho#	bichinho				174.0	Type=Derivation		{}
+174.3	bichão#	bichão				174.0	Type=Derivation		{}
+
+175.0	bidê#	bidê							{}
+175.1	bidês#	bidês				175.0	Type=Derivation		{}
+
+176.0	bilhão#	bilhão							{}
+176.1	bilhões#	bilhões				176.0	Type=Derivation		{}
+
+177.0	bisão#	bisão							{}
+177.1	bisões#	bisões				177.0	Type=Derivation		{}
+
+178.0	blasfémia#	blasfémia							{}
+178.1	blasfémias#	blasfémias				178.0	Type=Derivation		{}
+
+179.0	bom#	bom							{}
+179.1	boa#	boa				179.0	Type=Derivation		{}
+179.2	melhor#	melhor				179.0	Type=Derivation		{}
+
+180.0	booleano#	booleano							{}
+180.1	booleana#	booleana				180.0	Type=Derivation		{}
+180.2	booleanas#	booleanas				180.0	Type=Derivation		{}
+180.3	booleanos#	booleanos				180.0	Type=Derivation		{}
+
+181.0	borracha#	borracha							{}
+181.1	borracharia#	borracharia				181.0	Type=Derivation		{}
+181.2	emborrachar#	emborrachar				181.0	Type=Derivation		{}
+
+182.0	borrasca#	borrasca							{}
+182.1	borrascas#	borrascas				182.0	Type=Derivation		{}
+
+183.0	botânica#	botânica							{"was_in_family_with": "184.0"}
+183.1	botânicas#	botânicas				183.0	Type=Derivation		{"other_parents": "184.0"}
+
+184.0	botânico#	botânico							{"was_in_family_with": "183.0"}
+184.1	botânicos#	botânicos				184.0	Type=Derivation		{}
+
+185.0	botão#	botão							{}
+185.1	botões#	botões				185.0	Type=Derivation		{}
+
+186.0	branco#	branco							{}
+186.1	branca#	branca				186.0	Type=Derivation		{}
+
+187.0	brasileiro#	brasileiro							{}
+187.1	brasileira#	brasileira				187.0	Type=Derivation		{}
+187.2	brasileiras#	brasileiras				187.0	Type=Derivation		{}
+187.3	brasileiros#	brasileiros				187.0	Type=Derivation		{}
+
+188.0	brilhante#	brilhante							{}
+188.1	brilhantes#	brilhantes				188.0	Type=Derivation		{}
+
+189.0	bruno#	bruno							{}
+189.1	bruna#	bruna				189.0	Type=Derivation		{}
+189.2	brunas#	brunas				189.0	Type=Derivation		{}
+
+190.0	bruxa#	bruxa							{}
+190.1	bruxas#	bruxas				190.0	Type=Derivation		{}
+
+191.0	bruxo#	bruxo							{}
+191.1	bruxos#	bruxos				191.0	Type=Derivation		{}
+
+192.0	buquê#	buquê							{}
+192.1	buquês#	buquês				192.0	Type=Derivation		{}
+
+193.0	bêbado#	bêbado							{}
+193.1	bêbada#	bêbada				193.0	Type=Derivation		{}
+193.2	bêbados#	bêbados				193.0	Type=Derivation		{}
+
+194.0	bênção#	bênção							{}
+194.1	bênçãos#	bênçãos				194.0	Type=Derivation		{}
+
+195.0	bóson#	bóson							{}
+195.1	bosônico#	bosônico				195.0	Type=Derivation		{}
+
+196.0	cabelos#	cabelos							{"other_parents": "196.0"}
+
+197.0	cabrão#	cabrão							{}
+197.1	cabrões#	cabrões				197.0	Type=Derivation		{}
+
+198.0	café#	café							{}
+198.1	cafeteria#	cafeteria				198.0	Type=Derivation		{}
+198.2	cafezal#	cafezal				198.0	Type=Derivation		{}
+
+199.0	caipira#	caipira							{}
+199.1	caipirinha#	caipirinha				199.0	Type=Derivation		{}
+
+200.0	caixão#	caixão							{}
+200.1	caixões#	caixões				200.0	Type=Derivation		{}
+
+201.0	califórnio#	califórnio							{}
+201.1	califórnios#	califórnios				201.0	Type=Derivation		{}
+
+202.0	camaleão#	camaleão							{}
+202.1	camaleões#	camaleões				202.0	Type=Derivation		{}
+
+203.0	camarão#	camarão							{}
+203.1	camarões#	camarões				203.0	Type=Derivation		{}
+
+204.0	camelo#	camelo							{}
+204.1	camelos#	camelos				204.0	Type=Derivation		{}
+
+205.0	camisinha#	camisinha							{}
+205.1	camisinhas#	camisinhas				205.0	Type=Derivation		{}
+
+206.0	campeão#	campeão							{}
+206.1	campeões#	campeões				206.0	Type=Derivation		{}
+
+207.0	canal#	canal							{}
+207.1	canais#	canais				207.0	Type=Derivation		{}
+
+208.0	cancelamento#	cancelamento							{}
+208.1	cancelamentos#	cancelamentos				208.0	Type=Derivation		{}
+
+209.0	caneca#	caneca							{}
+209.1	canecas#	canecas				209.0	Type=Derivation		{}
+
+210.0	canil#	canil							{}
+210.1	canis#	canis				210.0	Type=Derivation		{}
+
+211.0	cantora#	cantora							{}
+211.1	cantoras#	cantoras				211.0	Type=Derivation		{}
+
+212.0	canção#	canção							{}
+212.1	canções#	canções				212.0	Type=Derivation		{}
+
+213.0	caos#	caos							{}
+213.1	caótico#	caótico				213.0	Type=Derivation		{}
+213.2	caóticos#	caóticos				213.1	Type=Derivation		{}
+213.3	caótica#	caótica				213.1	Type=Derivation		{}
+213.4	caóticas#	caóticas				213.1	Type=Derivation		{}
+
+214.0	caracterização#	caracterização							{}
+214.1	caracterizações#	caracterizações				214.0	Type=Derivation		{}
+
+215.0	caralho#	caralho							{}
+215.1	caralhos#	caralhos				215.0	Type=Derivation		{}
+
+216.0	carcinógeno#	carcinógeno							{}
+216.1	carcinógenos#	carcinógenos				216.0	Type=Derivation		{}
+
+217.0	cardeal#	cardeal							{}
+217.1	cardeais#	cardeais				217.0	Type=Derivation		{}
+
+218.0	caricatura#	caricatura							{}
+218.1	caricaturas#	caricaturas				218.0	Type=Derivation		{}
+
+219.0	carnaval#	carnaval							{}
+219.1	carnavais#	carnavais				219.0	Type=Derivation		{}
+
+220.0	carneiro#	carneiro							{}
+220.1	Carneiro#	Carneiro				220.0	Type=Derivation		{}
+
+221.0	carnívoro#	carnívoro							{}
+221.1	carnívora#	carnívora				221.0	Type=Derivation		{}
+221.2	carnívoras#	carnívoras				221.0	Type=Derivation		{}
+221.3	carnívoros#	carnívoros				221.0	Type=Derivation		{}
+
+222.0	caroço#	caroço							{}
+222.1	caroços#	caroços				222.0	Type=Derivation		{}
+
+223.0	carro#	carro							{}
+223.1	carrinho#	carrinho				223.0	Type=Derivation		{}
+223.2	carros#	carros				223.0	Type=Derivation		{}
+
+224.0	carta#	carta							{}
+224.1	cartas#	cartas				224.0	Type=Derivation		{}
+
+225.0	cartaginês#	cartaginês							{}
+225.1	cartagineses#	cartagineses				225.0	Type=Derivation		{}
+
+226.0	cartomante#	cartomante							{}
+226.1	cartomantes#	cartomantes				226.0	Type=Derivation		{}
+
+227.0	cartão#	cartão							{}
+227.1	cartões#	cartões				227.0	Type=Derivation		{}
+
+228.0	caspa#	caspa							{}
+228.1	caspas#	caspas				228.0	Type=Derivation		{}
+
+229.0	castanho#	castanho							{}
+229.1	castanha#	castanha				229.0	Type=Derivation		{}
+
+230.0	castelo#	castelo							{}
+230.1	castelos#	castelos				230.0	Type=Derivation		{}
+
+231.0	castração#	castração							{}
+231.1	castrações#	castrações				231.0	Type=Derivation		{}
+
+232.0	catamita#	catamita							{}
+232.1	catamitas#	catamitas				232.0	Type=Derivation		{}
+
+233.0	catedral#	catedral							{}
+233.1	catedrais#	catedrais				233.0	Type=Derivation		{}
+
+234.0	catita#	catita							{}
+234.1	catitas#	catitas				234.0	Type=Derivation		{}
+
+235.0	catião#	catião							{}
+235.1	catiões#	catiões				235.0	Type=Derivation		{}
+
+236.0	caucasiano#	caucasiano							{}
+236.1	caucasiana#	caucasiana				236.0	Type=Derivation		{}
+
+237.0	caçador#	caçador							{}
+237.1	caçadores#	caçadores				237.0	Type=Derivation		{}
+
+238.0	celebrado#	celebrado							{}
+238.1	celebrada#	celebrada				238.0	Type=Derivation		{}
+
+239.0	celular#	celular							{}
+239.1	celulares#	celulares				239.0	Type=Derivation		{}
+
+240.0	cerveja#	cerveja							{}
+240.1	cervejas#	cervejas				240.0	Type=Derivation		{}
+
+241.0	chacal#	chacal							{}
+241.1	chacais#	chacais				241.0	Type=Derivation		{}
+
+242.0	charro#	charro							{}
+242.1	charros#	charros				242.0	Type=Derivation		{}
+
+243.0	cheio#	cheio							{}
+243.1	cheia#	cheia				243.0	Type=Derivation		{}
+243.2	cheios#	cheios				243.0	Type=Derivation		{}
+
+244.0	chuva#	chuva							{}
+244.1	chuvas#	chuvas				244.0	Type=Derivation		{}
+
+245.0	ciborgue#	ciborgue							{}
+245.1	ciborgues#	ciborgues				245.0	Type=Derivation		{}
+
+246.0	cidade#	cidade							{}
+246.1	cidades#	cidades				246.0	Type=Derivation		{}
+
+247.0	cinzento#	cinzento							{}
+247.1	cinzenta#	cinzenta				247.0	Type=Derivation		{}
+
+248.0	circuncidar#	circuncidar							{}
+248.1	circuncisão#	circuncisão				248.0	Type=Derivation		{}
+248.2	circuncisões#	circuncisões				248.1	Type=Derivation		{}
+
+249.0	circunflexo#	circunflexo							{}
+249.1	circunflexa#	circunflexa				249.0	Type=Derivation		{}
+249.2	circunflexas#	circunflexas				249.0	Type=Derivation		{}
+249.3	circunflexos#	circunflexos				249.0	Type=Derivation		{}
+
+250.0	citação#	citação							{}
+250.1	citações#	citações				250.0	Type=Derivation		{}
+
+251.0	citocina#	citocina							{}
+251.1	citocinas#	citocinas				251.0	Type=Derivation		{}
+
+252.0	clavícula#	clavícula							{}
+252.1	clavículas#	clavículas				252.0	Type=Derivation		{}
+
+253.0	clã#	clã							{}
+253.1	clãs#	clãs				253.0	Type=Derivation		{}
+
+254.0	codorniz#	codorniz							{}
+254.1	codornizes#	codornizes				254.0	Type=Derivation		{}
+
+255.0	coisa#	coisa							{}
+255.1	coisas#	coisas				255.0	Type=Derivation		{}
+
+256.0	colaboração#	colaboração							{}
+256.1	colaborações#	colaborações				256.0	Type=Derivation		{}
+
+257.0	colheita#	colheita							{}
+257.1	colheitadeira#	colheitadeira				257.0	Type=Derivation		{}
+257.2	colheitas#	colheitas				257.0	Type=Derivation		{}
+
+258.0	colisão#	colisão							{}
+258.1	colisões#	colisões				258.0	Type=Derivation		{}
+
+259.0	colocar#	colocar							{}
+259.1	colocador#	colocador				259.0	Type=Derivation		{}
+259.2	colocação#	colocação				259.0	Type=Derivation		{}
+
+260.0	com#	com							{}
+260.1	ca#	ca				260.0	Type=Derivation		{}
+260.2	co#	co				260.0	Type=Derivation		{}
+260.3	comigo#	comigo				260.0	Type=Derivation		{}
+260.4	conosco#	conosco				260.0	Type=Derivation		{}
+260.5	consigo#	consigo				260.0	Type=Derivation		{}
+260.6	contigo#	contigo				260.0	Type=Derivation		{}
+260.7	convosco#	convosco				260.0	Type=Derivation		{}
+
+261.0	combinação#	combinação							{}
+261.1	combinações#	combinações				261.0	Type=Derivation		{}
+
+262.0	comercial#	comercial							{}
+262.1	comerciais#	comerciais				262.0	Type=Derivation		{}
+
+263.0	comichão#	comichão							{}
+263.1	comichões#	comichões				263.0	Type=Derivation		{}
+
+264.0	comité#	comité							{}
+264.1	comités#	comités				264.0	Type=Derivation		{}
+
+265.0	compatível#	compatível							{}
+265.1	compativelmente#	compativelmente				265.0	Type=Derivation		{}
+
+266.0	compreender#	compreender							{}
+266.1	compreensibilidade#	compreensibilidade				266.0	Type=Derivation		{}
+266.2	compreensivo#	compreensivo				266.0	Type=Derivation		{}
+266.3	compreensão#	compreensão				266.0	Type=Derivation		{}
+266.4	compreensível#	compreensível				266.0	Type=Derivation		{}
+
+267.0	compulsão#	compulsão							{}
+267.1	compulsões#	compulsões				267.0	Type=Derivation		{}
+
+268.0	comunicação#	comunicação							{}
+268.1	comunicações#	comunicações				268.0	Type=Derivation		{}
+
+269.0	concatenar#	concatenar							{}
+269.1	concatenando#	concatenando				269.0	Type=Derivation		{}
+
+270.0	concavidade#	concavidade							{}
+270.1	concavidades#	concavidades				270.0	Type=Derivation		{}
+
+271.0	conclusão#	conclusão							{}
+271.1	conclusões#	conclusões				271.0	Type=Derivation		{}
+
+272.0	concorde#	concorde							{}
+272.1	concordes#	concordes				272.0	Type=Derivation		{}
+
+273.0	condição#	condição							{}
+273.1	condicional#	condicional				273.0	Type=Derivation		{}
+273.2	condições#	condições				273.0	Type=Derivation		{}
+
+274.0	configuração#	configuração							{}
+274.1	configurações#	configurações				274.0	Type=Derivation		{}
+
+275.0	confortável#	confortável							{}
+275.1	confortavelmente#	confortavelmente				275.0	Type=Derivation		{}
+
+276.0	conjugação#	conjugação							{}
+276.1	conjugações#	conjugações				276.0	Type=Derivation		{}
+
+277.0	conjunção#	conjunção							{}
+277.1	conjunções#	conjunções				277.0	Type=Derivation		{}
+
+278.0	conselho#	conselho							{}
+278.1	conselhos#	conselhos				278.0	Type=Derivation		{}
+
+279.0	consequência#	consequência							{}
+279.1	consequências#	consequências				279.0	Type=Derivation		{}
+
+280.0	considerável#	considerável							{}
+280.1	consideravelmente#	consideravelmente				280.0	Type=Derivation		{}
+280.2	consideráveis#	consideráveis				280.0	Type=Derivation		{}
+
+281.0	consoante#	consoante							{}
+281.1	consoantes#	consoantes				281.0	Type=Derivation		{}
+
+282.0	conspiração#	conspiração							{}
+282.1	conspirações#	conspirações				282.0	Type=Derivation		{}
+
+283.0	constelação#	constelação							{}
+283.1	constelações#	constelações				283.0	Type=Derivation		{}
+
+284.0	contradição#	contradição							{}
+284.1	contradições#	contradições				284.0	Type=Derivation		{}
+
+285.0	contusão#	contusão							{}
+285.1	contusões#	contusões				285.0	Type=Derivation		{}
+
+286.0	converso#	converso							{}
+286.1	conversa#	conversa				286.0	Type=Derivation		{}
+
+287.0	convexidade#	convexidade							{}
+287.1	convexidades#	convexidades				287.0	Type=Derivation		{}
+
+288.0	convulsão#	convulsão							{}
+288.1	convulsões#	convulsões				288.0	Type=Derivation		{}
+
+289.0	convés#	convés							{}
+289.1	conveses#	conveses				289.0	Type=Derivation		{}
+
+290.0	coordenada#	coordenada							{}
+290.1	coordenadas#	coordenadas				290.0	Type=Derivation		{}
+
+291.0	coração#	coração							{}
+291.1	corações#	corações				291.0	Type=Derivation		{}
+
+292.0	coronel#	coronel							{}
+292.1	coronéis#	coronéis				292.0	Type=Derivation		{}
+
+293.0	corpo#	corpo							{}
+293.1	corpos#	corpos				293.0	Type=Derivation		{}
+
+294.0	correcto#	correcto							{}
+294.1	correctamente#	correctamente				294.0	Type=Derivation		{}
+
+295.0	correr#	correr							{}
+295.1	corrido#	corrido				295.0	Type=Derivation		{}
+
+296.0	correto#	correto							{}
+296.1	corretamente#	corretamente				296.0	Type=Derivation		{}
+
+297.0	cortado#	cortado							{}
+297.1	cortada#	cortada				297.0	Type=Derivation		{}
+297.2	cortadas#	cortadas				297.0	Type=Derivation		{}
+297.3	cortados#	cortados				297.0	Type=Derivation		{}
+
+298.0	corte#	corte							{}
+298.1	cortes#	cortes				298.0	Type=Derivation		{}
+
+299.0	costa#	costa							{}
+299.1	costas#	costas				299.0	Type=Derivation		{}
+
+300.0	cotovelo#	cotovelo							{}
+300.1	cotovelos#	cotovelos				300.0	Type=Derivation		{}
+
+301.0	coxo#	coxo							{}
+301.1	coxa#	coxa				301.0	Type=Derivation		{}
+
+302.0	crer#	crer							{}
+302.1	cri#	cri				302.0	Type=Derivation		{}
+
+303.0	criança#	criança							{}
+303.1	crianças#	crianças				303.0	Type=Derivation		{}
+
+304.0	criação#	criação							{}
+304.1	criações#	criações				304.0	Type=Derivation		{}
+
+305.0	cromatóforo#	cromatóforo							{}
+305.1	cromatóforos#	cromatóforos				305.0	Type=Derivation		{}
+
+306.0	cruel#	cruel							{}
+306.1	cruelmente#	cruelmente				306.0	Type=Derivation		{}
+
+307.0	crustáceo#	crustáceo							{}
+307.1	crustácea#	crustácea				307.0	Type=Derivation		{}
+307.2	crustáceas#	crustáceas				307.0	Type=Derivation		{}
+
+308.0	crânio#	crânio							{}
+308.1	crânios#	crânios				308.0	Type=Derivation		{}
+
+309.0	cubo#	cubo							{}
+309.1	cubic#	cubic				309.0	Type=Derivation		{}
+309.2	cúbico#	cúbico				309.0	Type=Derivation		{}
+
+310.0	cuca#	cuca							{}
+310.1	cucas#	cucas				310.0	Type=Derivation		{}
+
+311.0	cueca#	cueca							{}
+311.1	cuecas#	cuecas				311.0	Type=Derivation		{}
+
+312.0	cuia#	cuia							{}
+312.1	cuieira#	cuieira				312.0	Type=Derivation		{}
+
+313.0	culinário#	culinário							{}
+313.1	culinária#	culinária				313.0	Type=Derivation		{}
+
+314.0	cultural#	cultural							{}
+314.1	culturais#	culturais				314.0	Type=Derivation		{}
+
+315.0	curação#	curação							{}
+315.1	Curaçao#	Curaçao				315.0	Type=Derivation		{}
+
+316.0	curdo#	curdo							{}
+316.1	curdos#	curdos				316.0	Type=Derivation		{}
+
+317.0	curiosidade#	curiosidade							{}
+317.1	curiosidades#	curiosidades				317.0	Type=Derivation		{}
+
+318.0	cuzinho#	cuzinho							{}
+318.1	cuzinhos#	cuzinhos				318.0	Type=Derivation		{}
+
+319.0	cágado#	cágado							{}
+319.1	cágados#	cágados				319.0	Type=Derivation		{}
+
+320.0	câmara#	câmara							{}
+320.1	câmaras#	câmaras				320.0	Type=Derivation		{}
+
+321.0	câmera#	câmera							{}
+321.1	câmeras#	câmeras				321.0	Type=Derivation		{}
+
+322.0	cédula#	cédula							{}
+322.1	cédulas#	cédulas				322.0	Type=Derivation		{}
+
+323.0	cóccix#	cóccix							{"other_parents": "323.0"}
+
+324.0	cólon#	cólon							{}
+324.1	cólones#	cólones				324.0	Type=Derivation		{}
+
+325.0	cômoda#	cômoda							{}
+325.1	cômodas#	cômodas				325.0	Type=Derivation		{}
+
+326.0	dar#	dar							{}
+326.1	daria#	daria				326.0	Type=Derivation		{}
+326.2	dou#	dou				326.0	Type=Derivation		{}
+326.3	dá#	dá				326.0	Type=Derivation		{}
+
+327.0	darma#	darma							{}
+327.1	darmas#	darmas				327.0	Type=Derivation		{}
+
+328.0	de#	de							{"was_in_family_with": "785.0"}
+328.1	daí#	daí				328.0	Type=Derivation		{}
+328.2	donde#	donde				328.0	Type=Derivation		{"other_parents": "785.0"}
+
+329.0	decisão#	decisão							{}
+329.1	decisões#	decisões				329.0	Type=Derivation		{}
+
+330.0	declinação#	declinação							{}
+330.1	declinações#	declinações				330.0	Type=Derivation		{}
+
+331.0	decolagem#	decolagem							{}
+331.1	decolagens#	decolagens				331.0	Type=Derivation		{}
+
+332.0	decoração#	decoração							{}
+332.1	decorações#	decorações				332.0	Type=Derivation		{}
+
+333.0	dedicação#	dedicação							{}
+333.1	dedicações#	dedicações				333.0	Type=Derivation		{}
+
+334.0	defender#	defender							{}
+334.1	defendam#	defendam				334.0	Type=Derivation		{}
+
+335.0	defenestração#	defenestração							{}
+335.1	defenestrações#	defenestrações				335.0	Type=Derivation		{}
+
+336.0	defesa#	defesa							{}
+336.1	autodefesa#	autodefesa				336.0	Type=Derivation		{}
+336.2	defesas#	defesas				336.0	Type=Derivation		{}
+336.3	defesazinha#	defesazinha				336.0	Type=Derivation		{}
+
+337.0	definição#	definição							{}
+337.1	definições#	definições				337.0	Type=Derivation		{}
+
+338.0	delação#	delação							{}
+338.1	delações#	delações				338.0	Type=Derivation		{}
+
+339.0	delecção#	delecção							{}
+339.1	delecções#	delecções				339.0	Type=Derivation		{}
+
+340.0	deleção#	deleção							{}
+340.1	deleções#	deleções				340.0	Type=Derivation		{}
+
+341.0	denotação#	denotação							{}
+341.1	denotações#	denotações				341.0	Type=Derivation		{}
+
+342.0	depressão#	depressão							{}
+342.1	depressões#	depressões				342.0	Type=Derivation		{}
+
+343.0	derivado#	derivado							{}
+343.1	derivada#	derivada				343.0	Type=Derivation		{}
+
+344.0	derrotado#	derrotado							{}
+344.1	derrotada#	derrotada				344.0	Type=Derivation		{}
+
+345.0	desambiguação#	desambiguação							{}
+345.1	desambiguações#	desambiguações				345.0	Type=Derivation		{}
+
+346.0	desavergonhado#	desavergonhado							{}
+346.1	desavergonhadamente#	desavergonhadamente				346.0	Type=Derivation		{}
+
+347.0	descrição#	descrição							{}
+347.1	descrições#	descrições				347.0	Type=Derivation		{}
+
+348.0	desculpa#	desculpa							{}
+348.1	desculpas#	desculpas				348.0	Type=Derivation		{}
+
+349.0	desejo#	desejo							{}
+349.1	desejos#	desejos				349.0	Type=Derivation		{}
+
+350.0	desejável#	desejável							{}
+350.1	desejabilidade#	desejabilidade				350.0	Type=Derivation		{}
+350.2	desejavelmente#	desejavelmente				350.0	Type=Derivation		{}
+
+351.0	desencontro#	desencontro							{}
+351.1	desencontros#	desencontros				351.0	Type=Derivation		{}
+
+352.0	desfragmentar#	desfragmentar							{}
+352.1	desfragmentação#	desfragmentação				352.0	Type=Derivation		{}
+
+353.0	desilusão#	desilusão							{}
+353.1	desilusões#	desilusões				353.0	Type=Derivation		{}
+
+354.0	desimpedido#	desimpedido							{}
+354.1	desimpedida#	desimpedida				354.0	Type=Derivation		{}
+
+355.0	desleal#	desleal							{}
+355.1	desleais#	desleais				355.0	Type=Derivation		{}
+355.2	deslealmente#	deslealmente				355.0	Type=Derivation		{}
+
+356.0	despertador#	despertador							{}
+356.1	despertadores#	despertadores				356.0	Type=Derivation		{}
+
+357.0	detalhe#	detalhe							{}
+357.1	detalhes#	detalhes				357.0	Type=Derivation		{}
+
+358.0	detetive#	detetive							{}
+358.1	detetives#	detetives				358.0	Type=Derivation		{}
+
+359.0	devasso#	devasso							{}
+359.1	devassa#	devassa				359.0	Type=Derivation		{}
+
+360.0	dia#	dia							{}
+360.1	dias#	dias				360.0	Type=Derivation		{}
+
+361.0	diabo#	diabo							{}
+361.1	diabos#	diabos				361.0	Type=Derivation		{}
+
+362.0	diacronia#	diacronia							{}
+362.1	diacronias#	diacronias				362.0	Type=Derivation		{}
+
+363.0	dicionário#	dicionário							{}
+363.1	dicionários#	dicionários				363.0	Type=Derivation		{}
+
+364.0	diferença#	diferença							{}
+364.1	diferenças#	diferenças				364.0	Type=Derivation		{}
+
+365.0	dificuldade#	dificuldade							{}
+365.1	dificuldades#	dificuldades				365.0	Type=Derivation		{}
+
+366.0	difícil#	difícil							{}
+366.1	dificílimo#	dificílimo				366.0	Type=Derivation		{}
+
+367.0	dimensão#	dimensão							{}
+367.1	dimensões#	dimensões				367.0	Type=Derivation		{}
+
+368.0	dinossauro#	dinossauro							{}
+368.1	dinossauros#	dinossauros				368.0	Type=Derivation		{}
+
+369.0	direcção#	direcção							{}
+369.1	direcções#	direcções				369.0	Type=Derivation		{}
+
+370.0	direção#	direção							{}
+370.1	direções#	direções				370.0	Type=Derivation		{}
+
+371.0	discrição#	discrição							{}
+371.1	discrições#	discrições				371.0	Type=Derivation		{}
+
+372.0	discussão#	discussão							{}
+372.1	discussões#	discussões				372.0	Type=Derivation		{}
+
+373.0	disjunção#	disjunção							{}
+373.1	disjunções#	disjunções				373.0	Type=Derivation		{}
+
+374.0	dispor#	dispor							{}
+374.1	dispomos#	dispomos				374.0	Type=Derivation		{}
+374.2	disponde#	disponde				374.0	Type=Derivation		{}
+374.3	dispondes#	dispondes				374.0	Type=Derivation		{}
+374.4	dispondo#	dispondo				374.0	Type=Derivation		{}
+374.5	disponha#	disponha				374.0	Type=Derivation		{}
+374.6	disponhais#	disponhais				374.0	Type=Derivation		{}
+374.7	disponham#	disponham				374.0	Type=Derivation		{}
+374.8	disponhamos#	disponhamos				374.0	Type=Derivation		{}
+374.9	disponhas#	disponhas				374.0	Type=Derivation		{}
+374.10	disponho#	disponho				374.0	Type=Derivation		{}
+374.11	dispordes#	dispordes				374.0	Type=Derivation		{}
+374.12	disporei#	disporei				374.0	Type=Derivation		{}
+374.13	disporeis#	disporeis				374.0	Type=Derivation		{}
+374.14	disporem#	disporem				374.0	Type=Derivation		{}
+374.15	disporemos#	disporemos				374.0	Type=Derivation		{}
+374.16	dispores#	dispores				374.0	Type=Derivation		{}
+374.17	disporia#	disporia				374.0	Type=Derivation		{}
+374.18	disporiam#	disporiam				374.0	Type=Derivation		{}
+374.19	disporias#	disporias				374.0	Type=Derivation		{}
+374.20	dispormos#	dispormos				374.0	Type=Derivation		{}
+374.21	disporá#	disporá				374.0	Type=Derivation		{}
+374.22	disporás#	disporás				374.0	Type=Derivation		{}
+374.23	disporão#	disporão				374.0	Type=Derivation		{}
+374.24	disporíamos#	disporíamos				374.0	Type=Derivation		{}
+374.25	disporíeis#	disporíeis				374.0	Type=Derivation		{}
+374.26	disposta#	disposta				374.0	Type=Derivation		{}
+374.27	dispostas#	dispostas				374.0	Type=Derivation		{}
+374.28	disposto#	disposto				374.0	Type=Derivation		{}
+374.29	dispostos#	dispostos				374.0	Type=Derivation		{}
+374.30	dispunha#	dispunha				374.0	Type=Derivation		{}
+374.31	dispunham#	dispunham				374.0	Type=Derivation		{}
+374.32	dispunhas#	dispunhas				374.0	Type=Derivation		{}
+374.33	dispus#	dispus				374.0	Type=Derivation		{}
+374.34	dispusemos#	dispusemos				374.0	Type=Derivation		{}
+374.35	dispuser#	dispuser				374.0	Type=Derivation		{}
+374.36	dispusera#	dispusera				374.0	Type=Derivation		{}
+374.37	dispuseram#	dispuseram				374.0	Type=Derivation		{}
+374.38	dispuseras#	dispuseras				374.0	Type=Derivation		{}
+374.39	dispuserdes#	dispuserdes				374.0	Type=Derivation		{}
+374.40	dispuserem#	dispuserem				374.0	Type=Derivation		{}
+374.41	dispuseres#	dispuseres				374.0	Type=Derivation		{}
+374.42	dispusermos#	dispusermos				374.0	Type=Derivation		{}
+374.43	dispusesse#	dispusesse				374.0	Type=Derivation		{}
+374.44	dispusessem#	dispusessem				374.0	Type=Derivation		{}
+374.45	dispusesses#	dispusesses				374.0	Type=Derivation		{}
+374.46	dispuseste#	dispuseste				374.0	Type=Derivation		{}
+374.47	dispusestes#	dispusestes				374.0	Type=Derivation		{}
+374.48	dispuséramos#	dispuséramos				374.0	Type=Derivation		{}
+374.49	dispuséreis#	dispuséreis				374.0	Type=Derivation		{}
+374.50	dispusésseis#	dispusésseis				374.0	Type=Derivation		{}
+374.51	dispuséssemos#	dispuséssemos				374.0	Type=Derivation		{}
+374.52	dispôs#	dispôs				374.0	Type=Derivation		{}
+374.53	dispõe#	dispõe				374.0	Type=Derivation		{}
+374.54	dispõem#	dispõem				374.0	Type=Derivation		{}
+374.55	dispões#	dispões				374.0	Type=Derivation		{}
+374.56	dispúnhamos#	dispúnhamos				374.0	Type=Derivation		{}
+374.57	dispúnheis#	dispúnheis				374.0	Type=Derivation		{}
+
+375.0	dissertação#	dissertação							{}
+375.1	dissertações#	dissertações				375.0	Type=Derivation		{}
+
+376.0	distinção#	distinção							{}
+376.1	distinções#	distinções				376.0	Type=Derivation		{}
+
+377.0	distribuição#	distribuição							{}
+377.1	distribuições#	distribuições				377.0	Type=Derivation		{}
+
+378.0	distância#	distância							{}
+378.1	distâncias#	distâncias				378.0	Type=Derivation		{}
+
+379.0	diversão#	diversão							{}
+379.1	diversões#	diversões				379.0	Type=Derivation		{}
+
+380.0	divisão#	divisão							{}
+380.1	divisões#	divisões				380.0	Type=Derivation		{}
+
+381.0	divulgação#	divulgação							{}
+381.1	divulgações#	divulgações				381.0	Type=Derivation		{}
+
+382.0	divórcio#	divórcio							{}
+382.1	divórcios#	divórcios				382.0	Type=Derivation		{}
+
+383.0	diâmetro#	diâmetro							{}
+383.1	diâmetros#	diâmetros				383.0	Type=Derivation		{}
+
+384.0	doar#	doar							{}
+384.1	doe#	doe				384.0	Type=Derivation		{}
+
+385.0	doação#	doação							{}
+385.1	doações#	doações				385.0	Type=Derivation		{}
+
+386.0	dogmático#	dogmático							{}
+386.1	dogmática#	dogmática				386.0	Type=Derivation		{}
+386.2	dogmáticas#	dogmáticas				386.0	Type=Derivation		{}
+386.3	dogmáticos#	dogmáticos				386.0	Type=Derivation		{}
+
+387.0	dom#	dom							{}
+387.1	dons#	dons				387.0	Type=Derivation		{}
+
+388.0	domingo#	domingo							{}
+388.1	domingos#	domingos				388.0	Type=Derivation		{}
+
+389.0	dormitório#	dormitório							{}
+389.1	dormitórios#	dormitórios				389.0	Type=Derivation		{}
+
+390.0	ecossistema#	ecossistema							{}
+390.1	ecossistemas#	ecossistemas				390.0	Type=Derivation		{}
+
+391.0	ecrã#	ecrã							{}
+391.1	ecrãs#	ecrãs				391.0	Type=Derivation		{}
+
+392.0	edifício#	edifício							{}
+392.1	edifícios#	edifícios				392.0	Type=Derivation		{}
+
+393.0	edito#	edito							{}
+393.1	edital#	edital				393.0	Type=Derivation		{}
+
+394.0	efeito#	efeito							{}
+394.1	efeitos#	efeitos				394.0	Type=Derivation		{}
+
+395.0	egípcio#	egípcio							{}
+395.1	egípcia#	egípcia				395.0	Type=Derivation		{}
+395.2	egípcias#	egípcias				395.0	Type=Derivation		{}
+395.3	egípcios#	egípcios				395.0	Type=Derivation		{}
+
+396.0	ejaculação#	ejaculação							{}
+396.1	ejaculações#	ejaculações				396.0	Type=Derivation		{}
+
+397.0	electrão#	electrão							{}
+397.1	electrões#	electrões				397.0	Type=Derivation		{}
+
+398.0	elegante#	elegante							{}
+398.1	elegantemente#	elegantemente				398.0	Type=Derivation		{}
+398.2	elegância#	elegância				398.0	Type=Derivation		{}
+
+399.0	eleição#	eleição							{}
+399.1	eleições#	eleições				399.0	Type=Derivation		{}
+
+400.0	eliminação#	eliminação							{}
+400.1	eliminações#	eliminações				400.0	Type=Derivation		{}
+
+401.0	emboscado#	emboscado							{}
+401.1	emboscada#	emboscada				401.0	Type=Derivation		{}
+
+402.0	emergência#	emergência							{}
+402.1	emergências#	emergências				402.0	Type=Derivation		{}
+
+403.0	emissão#	emissão							{}
+403.1	emissões#	emissões				403.0	Type=Derivation		{}
+
+404.0	emoção#	emoção							{}
+404.1	emocional#	emocional				404.0	Type=Derivation		{}
+404.2	emotivo#	emotivo				404.0	Type=Derivation		{}
+404.3	emoções#	emoções				404.0	Type=Derivation		{}
+
+405.0	encontro#	encontro							{}
+405.1	encontros#	encontros				405.0	Type=Derivation		{}
+
+406.0	enigmático#	enigmático							{}
+406.1	enigmaticamente#	enigmaticamente				406.0	Type=Derivation		{}
+
+407.0	enorme#	enorme							{}
+407.1	enormes#	enormes				407.0	Type=Derivation		{}
+
+408.0	entomologista#	entomologista							{}
+408.1	entomologistas#	entomologistas				408.0	Type=Derivation		{}
+
+409.0	entorpecer#	entorpecer							{}
+409.1	entorpecido#	entorpecido				409.0	Type=Derivation		{}
+
+410.0	entrada#	entrada							{}
+410.1	entradas#	entradas				410.0	Type=Derivation		{}
+
+411.0	enxaqueca#	enxaqueca							{}
+411.1	enxaquecas#	enxaquecas				411.0	Type=Derivation		{}
+
+412.0	epicentro#	epicentro							{}
+412.1	epicentros#	epicentros				412.0	Type=Derivation		{}
+
+413.0	epidídimo#	epidídimo							{}
+413.1	epidídimos#	epidídimos				413.0	Type=Derivation		{}
+
+414.0	erecção#	erecção							{}
+414.1	erecções#	erecções				414.0	Type=Derivation		{}
+
+415.0	ereção#	ereção							{}
+415.1	ereções#	ereções				415.0	Type=Derivation		{}
+
+416.0	erro#	erro							{}
+416.1	erros#	erros				416.0	Type=Derivation		{}
+
+417.0	erróneo#	erróneo							{}
+417.1	erroneamente#	erroneamente				417.0	Type=Derivation		{}
+
+418.0	erupção#	erupção							{}
+418.1	erupções#	erupções				418.0	Type=Derivation		{}
+
+419.0	escaldado#	escaldado							{}
+419.1	escaldada#	escaldada				419.0	Type=Derivation		{}
+419.2	escaldadas#	escaldadas				419.0	Type=Derivation		{}
+419.3	escaldados#	escaldados				419.0	Type=Derivation		{}
+
+420.0	escorpião#	escorpião							{}
+420.1	escorpiões#	escorpiões				420.0	Type=Derivation		{}
+
+421.0	escrivã#	escrivã							{}
+421.1	escrivaninha#	escrivaninha				421.0	Type=Derivation		{}
+
+422.0	escroto#	escroto							{}
+422.1	escrota#	escrota				422.0	Type=Derivation		{}
+422.2	escrotas#	escrotas				422.0	Type=Derivation		{}
+422.3	escrotos#	escrotos				422.0	Type=Derivation		{}
+
+423.0	esforço#	esforço							{}
+423.1	esforços#	esforços				423.0	Type=Derivation		{}
+
+424.0	espanhol#	espanhol							{}
+424.1	espanhola#	espanhola				424.0	Type=Derivation		{}
+424.2	espanholas#	espanholas				424.0	Type=Derivation		{}
+424.3	espanhóis#	espanhóis				424.0	Type=Derivation		{}
+
+425.0	espaço#	espaço							{}
+425.1	espaços#	espaços				425.0	Type=Derivation		{}
+
+426.0	espaçoso#	espaçoso							{}
+426.1	espaçosamente#	espaçosamente				426.0	Type=Derivation		{}
+
+427.0	especial#	especial							{}
+427.1	especiais#	especiais				427.0	Type=Derivation		{}
+
+428.0	específico#	específico							{}
+428.1	especificamente#	especificamente				428.0	Type=Derivation		{}
+
+429.0	espiga#	espiga							{}
+429.1	espigas#	espigas				429.0	Type=Derivation		{}
+
+430.0	espinha#	espinha							{}
+430.1	espinhas#	espinhas				430.0	Type=Derivation		{}
+
+431.0	espinhaço#	espinhaço							{}
+431.1	espinhaços#	espinhaços				431.0	Type=Derivation		{}
+
+432.0	espiritual#	espiritual							{}
+432.1	espiritualmente#	espiritualmente				432.0	Type=Derivation		{}
+
+433.0	esponja#	esponja							{}
+433.1	esponjas#	esponjas				433.0	Type=Derivation		{}
+
+434.0	estar#	estar							{}
+434.1	esteja#	esteja				434.0	Type=Derivation		{}
+434.2	estás#	estás				434.0	Type=Derivation		{}
+
+435.0	estocástico#	estocástico							{}
+435.1	estocástica#	estocástica				435.0	Type=Derivation		{}
+435.2	estocásticas#	estocásticas				435.0	Type=Derivation		{}
+435.3	estocásticos#	estocásticos				435.0	Type=Derivation		{}
+
+436.0	estranho#	estranho							{}
+436.1	estranha#	estranha				436.0	Type=Derivation		{}
+436.2	estranhas#	estranhas				436.0	Type=Derivation		{}
+436.3	estranhos#	estranhos				436.0	Type=Derivation		{}
+
+437.0	estratégia#	estratégia							{}
+437.1	estratégias#	estratégias				437.0	Type=Derivation		{}
+
+438.0	estratégico#	estratégico							{}
+438.1	estrategicamente#	estrategicamente				438.0	Type=Derivation		{}
+
+439.0	esturjão#	esturjão							{}
+439.1	esturjões#	esturjões				439.0	Type=Derivation		{}
+
+440.0	estável#	estável							{}
+440.1	estavelmente#	estavelmente				440.0	Type=Derivation		{}
+
+441.0	estético#	estético							{}
+441.1	estética#	estética				441.0	Type=Derivation		{}
+
+442.0	estória#	estória							{}
+442.1	estórias#	estórias				442.0	Type=Derivation		{}
+
+443.0	estômago#	estômago							{}
+443.1	estômagos#	estômagos				443.0	Type=Derivation		{}
+
+444.0	esôfago#	esôfago							{}
+444.1	esôfagos#	esôfagos				444.0	Type=Derivation		{}
+
+445.0	eufemismo#	eufemismo							{}
+445.1	eufemismos#	eufemismos				445.0	Type=Derivation		{}
+
+446.0	europeu#	europeu							{}
+446.1	europeus#	europeus				446.0	Type=Derivation		{}
+
+447.0	evolução#	evolução							{}
+447.1	evoluções#	evoluções				447.0	Type=Derivation		{}
+
+448.0	exageração#	exageração							{}
+448.1	exagerações#	exagerações				448.0	Type=Derivation		{}
+
+449.0	exaltação#	exaltação							{}
+449.1	exaltações#	exaltações				449.0	Type=Derivation		{}
+
+450.0	excepção#	excepção							{}
+450.1	excepções#	excepções				450.0	Type=Derivation		{}
+
+451.0	exceção#	exceção							{}
+451.1	exceções#	exceções				451.0	Type=Derivation		{}
+
+452.0	excursão#	excursão							{}
+452.1	excursões#	excursões				452.0	Type=Derivation		{}
+
+453.0	explicação#	explicação							{}
+453.1	explicações#	explicações				453.0	Type=Derivation		{}
+
+454.0	exploração#	exploração							{}
+454.1	explorações#	explorações				454.0	Type=Derivation		{}
+
+455.0	explosão#	explosão							{}
+455.1	explosões#	explosões				455.0	Type=Derivation		{}
+
+456.0	expressão#	expressão							{}
+456.1	expressões#	expressões				456.0	Type=Derivation		{}
+
+457.0	extraordinário#	extraordinário							{}
+457.1	extraordinariamente#	extraordinariamente				457.0	Type=Derivation		{}
+457.2	extraordinária#	extraordinária				457.0	Type=Derivation		{}
+
+458.0	extremo#	extremo							{}
+458.1	extremamente#	extremamente				458.0	Type=Derivation		{}
+458.2	extremidade#	extremidade				458.0	Type=Derivation		{}
+
+459.0	exumação#	exumação							{}
+459.1	exumações#	exumações				459.0	Type=Derivation		{}
+
+460.0	facção#	facção							{}
+460.1	facções#	facções				460.0	Type=Derivation		{}
+
+461.0	falacia#	falacia							{}
+461.1	falacias#	falacias				461.0	Type=Derivation		{}
+
+462.0	falange#	falange							{}
+462.1	falanginha#	falanginha				462.0	Type=Derivation		{}
+
+463.0	falência#	falência							{}
+463.1	falências#	falências				463.0	Type=Derivation		{}
+
+464.0	faringe#	faringe							{}
+464.1	faringes#	faringes				464.0	Type=Derivation		{}
+
+465.0	farol#	farol							{}
+465.1	faróis#	faróis				465.0	Type=Derivation		{}
+
+466.0	fascismo#	fascismo							{}
+466.1	antifascismo#	antifascismo				466.0	Type=Derivation		{}
+466.2	islamofascismo#	islamofascismo				466.0	Type=Derivation		{}
+
+467.0	fatorial#	fatorial							{}
+467.1	fatoriais#	fatoriais				467.0	Type=Derivation		{}
+
+468.0	favorável#	favorável							{}
+468.1	favoravelmente#	favoravelmente				468.0	Type=Derivation		{}
+468.2	favoráveis#	favoráveis				468.0	Type=Derivation		{}
+
+469.0	feio#	feio							{}
+469.1	feios#	feios				469.0	Type=Derivation		{}
+
+470.0	feira#	feira							{}
+470.1	feiras#	feiras				470.0	Type=Derivation		{}
+
+471.0	feminilidade#	feminilidade							{}
+471.1	feminilidades#	feminilidades				471.0	Type=Derivation		{}
+
+472.0	fenômeno#	fenômeno							{}
+472.1	fenômenos#	fenômenos				472.0	Type=Derivation		{}
+
+473.0	fera#	fera							{}
+473.1	feras#	feras				473.0	Type=Derivation		{}
+
+474.0	ferido#	ferido							{}
+474.1	ferida#	ferida				474.0	Type=Derivation		{}
+
+475.0	ferradura#	ferradura							{}
+475.1	ferraduras#	ferraduras				475.0	Type=Derivation		{}
+
+476.0	ferramenta#	ferramenta							{}
+476.1	ferramentas#	ferramentas				476.0	Type=Derivation		{}
+
+477.0	fertilização#	fertilização							{}
+477.1	fertilizações#	fertilizações				477.0	Type=Derivation		{}
+
+478.0	feto#	feto							{}
+478.1	fetusca#	fetusca				478.0	Type=Derivation		{}
+
+479.0	fica#	fica							{}
+479.1	fikdik#	fikdik				479.0	Type=Derivation		{}
+
+480.0	ficção#	ficção							{}
+480.1	ficções#	ficções				480.0	Type=Derivation		{}
+
+481.0	filantrópico#	filantrópico							{}
+481.1	filantropicamente#	filantropicamente				481.0	Type=Derivation		{}
+
+482.0	filológico#	filológico							{}
+482.1	filologicamente#	filologicamente				482.0	Type=Derivation		{}
+
+483.0	fluvial#	fluvial							{}
+483.1	fluviais#	fluviais				483.0	Type=Derivation		{}
+
+484.0	fobia#	fobia							{}
+484.1	fobias#	fobias				484.0	Type=Derivation		{}
+
+485.0	foca#	foca							{}
+485.1	focas#	focas				485.0	Type=Derivation		{}
+
+486.0	focinho#	focinho							{}
+486.1	focinhos#	focinhos				486.0	Type=Derivation		{}
+
+487.0	fogo#	fogo							{}
+487.1	fogos#	fogos				487.0	Type=Derivation		{}
+
+488.0	forasteiro#	forasteiro							{}
+488.1	forasteira#	forasteira				488.0	Type=Derivation		{}
+488.2	forasteiras#	forasteiras				488.0	Type=Derivation		{}
+488.3	forasteiros#	forasteiros				488.0	Type=Derivation		{}
+
+489.0	formoso#	formoso							{}
+489.1	formosa#	formosa				489.0	Type=Derivation		{}
+
+490.0	forno#	forno							{}
+490.1	fornalha#	fornalha				490.0	Type=Derivation		{}
+490.2	fornalhas#	fornalhas				490.1	Type=Derivation		{}
+
+491.0	forrar#	forrar							{}
+491.1	forrado#	forrado				491.0	Type=Derivation		{}
+
+492.0	fotografia#	fotografia							{}
+492.1	fotografias#	fotografias				492.0	Type=Derivation		{}
+
+493.0	fotográfico#	fotográfico							{}
+493.1	fotograficamente#	fotograficamente				493.0	Type=Derivation		{}
+
+494.0	fracção#	fracção							{}
+494.1	fracções#	fracções				494.0	Type=Derivation		{}
+
+495.0	frade#	frade							{}
+495.1	frades#	frades				495.0	Type=Derivation		{}
+
+496.0	fração#	fração							{}
+496.1	frações#	frações				496.0	Type=Derivation		{}
+
+497.0	fronteiro#	fronteiro							{}
+497.1	fronteira#	fronteira				497.0	Type=Derivation		{}
+
+498.0	fruto#	fruto							{}
+498.1	pseudofruto#	pseudofruto				498.0	Type=Derivation		{}
+
+499.0	fumo#	fumo							{}
+499.1	fumos#	fumos				499.0	Type=Derivation		{}
+
+500.0	fundamental#	fundamental							{}
+500.1	fundamentais#	fundamentais				500.0	Type=Derivation		{}
+
+501.0	fundo#	fundo							{}
+501.1	funda#	funda				501.0	Type=Derivation		{}
+
+502.0	furto#	furto							{}
+502.1	furtos#	furtos				502.0	Type=Derivation		{}
+
+503.0	futebol#	futebol							{}
+503.1	futebolista#	futebolista				503.0	Type=Derivation		{}
+503.2	futsal#	futsal				503.0	Type=Derivation		{}
+
+504.0	fácil#	fácil							{}
+504.1	facílimo#	facílimo				504.0	Type=Derivation		{}
+
+505.0	fã#	fã							{}
+505.1	fãs#	fãs				505.0	Type=Derivation		{}
+
+506.0	férreo#	férreo							{}
+506.1	férrea#	férrea				506.0	Type=Derivation		{}
+506.2	férreas#	férreas				506.0	Type=Derivation		{}
+506.3	férreos#	férreos				506.0	Type=Derivation		{}
+
+507.0	fértil#	fértil							{}
+507.1	férteis#	férteis				507.0	Type=Derivation		{}
+
+508.0	fêmur#	fêmur							{}
+508.1	fêmures#	fêmures				508.0	Type=Derivation		{}
+
+509.0	físico#	físico							{}
+509.1	física#	física				509.0	Type=Derivation		{}
+509.2	astrofísica#	astrofísica				509.1	Type=Derivation		{}
+509.3	astrofísicas#	astrofísicas				509.2	Type=Derivation		{}
+509.4	termofísica#	termofísica				509.1	Type=Derivation		{}
+
+510.0	fórmula#	fórmula							{}
+510.1	fórmulas#	fórmulas				510.0	Type=Derivation		{}
+
+511.0	gadanha#	gadanha							{}
+511.1	gadanhas#	gadanhas				511.0	Type=Derivation		{}
+
+512.0	gaiola#	gaiola							{}
+512.1	gaiolas#	gaiolas				512.0	Type=Derivation		{}
+
+513.0	galáxia#	galáxia							{}
+513.1	galáxias#	galáxias				513.0	Type=Derivation		{}
+
+514.0	galão#	galão							{}
+514.1	galões#	galões				514.0	Type=Derivation		{}
+
+515.0	galês#	galês							{}
+515.1	galesas#	galesas				515.0	Type=Derivation		{}
+515.2	galeses#	galeses				515.0	Type=Derivation		{}
+
+516.0	ganhador#	ganhador							{}
+516.1	ganhadores#	ganhadores				516.0	Type=Derivation		{}
+
+517.0	ganhar#	ganhar							{}
+517.1	ganha#	ganha				517.0	Type=Derivation		{}
+517.2	ganhais#	ganhais				517.0	Type=Derivation		{}
+517.3	ganham#	ganham				517.0	Type=Derivation		{}
+517.4	ganhamos#	ganhamos				517.0	Type=Derivation		{}
+517.5	ganhas#	ganhas				517.0	Type=Derivation		{}
+517.6	ganhava#	ganhava				517.0	Type=Derivation		{}
+517.7	ganhavam#	ganhavam				517.0	Type=Derivation		{}
+517.8	ganhavas#	ganhavas				517.0	Type=Derivation		{}
+517.9	ganho#	ganho				517.0	Type=Derivation		{}
+517.10	ganhávamos#	ganhávamos				517.0	Type=Derivation		{}
+517.11	ganháveis#	ganháveis				517.0	Type=Derivation		{}
+
+518.0	garganta#	garganta							{}
+518.1	gargantas#	gargantas				518.0	Type=Derivation		{}
+
+519.0	garota#	garota							{}
+519.1	garotas#	garotas				519.0	Type=Derivation		{}
+
+520.0	garoto#	garoto							{}
+520.1	garotada#	garotada				520.0	Type=Derivation		{}
+520.2	garotos#	garotos				520.0	Type=Derivation		{}
+
+521.0	garrafa#	garrafa							{}
+521.1	garrafas#	garrafas				521.0	Type=Derivation		{}
+
+522.0	general#	general							{}
+522.1	generais#	generais				522.0	Type=Derivation		{}
+
+523.0	genitivo#	genitivo							{}
+523.1	genitiva#	genitiva				523.0	Type=Derivation		{}
+
+524.0	gente#	gente							{}
+524.1	gentil#	gentil				524.0	Type=Derivation		{}
+
+525.0	geofísico#	geofísico							{}
+525.1	geofísica#	geofísica				525.0	Type=Derivation		{}
+525.2	geofísicas#	geofísicas				525.0	Type=Derivation		{}
+525.3	geofísicos#	geofísicos				525.0	Type=Derivation		{}
+
+526.0	geográfico#	geográfico							{}
+526.1	geograficamente#	geograficamente				526.0	Type=Derivation		{}
+
+527.0	geração#	geração							{}
+527.1	gerações#	gerações				527.0	Type=Derivation		{}
+
+528.0	gerúndio#	gerúndio							{}
+528.1	gerúndios#	gerúndios				528.0	Type=Derivation		{}
+
+529.0	geógrafo#	geógrafo							{}
+529.1	geógrafos#	geógrafos				529.0	Type=Derivation		{}
+
+530.0	glândula#	glândula							{}
+530.1	glandular#	glandular				530.0	Type=Derivation		{}
+
+531.0	gol#	gol							{}
+531.1	goleada#	goleada				531.0	Type=Derivation		{}
+531.2	golear#	golear				531.0	Type=Derivation		{}
+531.3	goleiro#	goleiro				531.0	Type=Derivation		{}
+
+532.0	golfinho#	golfinho							{}
+532.1	golfinhos#	golfinhos				532.0	Type=Derivation		{}
+
+533.0	gorila#	gorila							{}
+533.1	gorilas#	gorilas				533.0	Type=Derivation		{}
+
+534.0	gosto#	gosto							{}
+534.1	gostos#	gostos				534.0	Type=Derivation		{}
+
+535.0	gostoso#	gostoso							{}
+535.1	gostosa#	gostosa				535.0	Type=Derivation		{}
+
+536.0	gramática#	gramática							{}
+536.1	gramáticas#	gramáticas				536.0	Type=Derivation		{}
+
+537.0	grandão#	grandão							{}
+537.1	grandona#	grandona				537.0	Type=Derivation		{}
+537.2	grandonas#	grandonas				537.0	Type=Derivation		{}
+537.3	grandões#	grandões				537.0	Type=Derivation		{}
+
+538.0	graveto#	graveto							{}
+538.1	gravetos#	gravetos				538.0	Type=Derivation		{}
+
+539.0	graça#	graça							{}
+539.1	graças#	graças				539.0	Type=Derivation		{}
+
+540.0	gringo#	gringo							{}
+540.1	gringa#	gringa				540.0	Type=Derivation		{}
+
+541.0	gráfico#	gráfico							{}
+541.1	gráficos#	gráficos				541.0	Type=Derivation		{}
+
+542.0	guitarra#	guitarra							{}
+542.1	guitarras#	guitarras				542.0	Type=Derivation		{}
+
+543.0	guri#	guri							{}
+543.1	guria#	guria				543.0	Type=Derivation		{}
+543.2	gurias#	gurias				543.1	Type=Derivation		{}
+543.3	guris#	guris				543.0	Type=Derivation		{}
+
+544.0	gênero#	gênero							{}
+544.1	gêneros#	gêneros				544.0	Type=Derivation		{}
+
+545.0	habitação#	habitação							{}
+545.1	habitações#	habitações				545.0	Type=Derivation		{}
+
+546.0	haltere#	haltere							{}
+546.1	halterofilismo#	halterofilismo				546.0	Type=Derivation		{}
+546.2	halterofilista#	halterofilista				546.0	Type=Derivation		{}
+
+547.0	harpia#	harpia							{}
+547.1	harpias#	harpias				547.0	Type=Derivation		{}
+
+548.0	haver#	haver							{}
+548.1	hás#	hás				548.0	Type=Derivation		{}
+
+549.0	helicóptero#	helicóptero							{}
+549.1	helicópteros#	helicópteros				549.0	Type=Derivation		{}
+
+550.0	hemisfério#	hemisfério							{}
+550.1	hemisférios#	hemisférios				550.0	Type=Derivation		{}
+
+551.0	hemácia#	hemácia							{}
+551.1	hemácias#	hemácias				551.0	Type=Derivation		{}
+
+552.0	herança#	herança							{}
+552.1	heranças#	heranças				552.0	Type=Derivation		{}
+
+553.0	história#	história							{}
+553.1	histórias#	histórias				553.0	Type=Derivation		{}
+
+554.0	holandês#	holandês							{}
+554.1	holandesa#	holandesa				554.0	Type=Derivation		{}
+554.2	holandesas#	holandesas				554.0	Type=Derivation		{}
+554.3	holandeses#	holandeses				554.0	Type=Derivation		{}
+
+555.0	homem#	homem							{}
+555.1	homens#	homens				555.0	Type=Derivation		{}
+
+556.0	horizontal#	horizontal							{}
+556.1	horizontalmente#	horizontalmente				556.0	Type=Derivation		{}
+
+557.0	hotel#	hotel							{}
+557.1	hotéis#	hotéis				557.0	Type=Derivation		{}
+
+558.0	humano#	humano							{}
+558.1	humana#	humana				558.0	Type=Derivation		{}
+
+559.0	hábito#	hábito							{}
+559.1	hábitos#	hábitos				559.0	Type=Derivation		{}
+
+560.0	hérnia#	hérnia							{}
+560.1	hérnias#	hérnias				560.0	Type=Derivation		{}
+
+561.0	hímen#	hímen							{}
+561.1	himens#	himens				561.0	Type=Derivation		{}
+
+562.0	i#	i							{}
+562.1	is#	is				562.0	Type=Derivation		{}
+
+563.0	ideia#	ideia							{}
+563.1	ideias#	ideias				563.0	Type=Derivation		{}
+
+564.0	iglu#	iglu							{}
+564.1	iglus#	iglus				564.0	Type=Derivation		{}
+
+565.0	ignorância#	ignorância							{}
+565.1	ignorâncias#	ignorâncias				565.0	Type=Derivation		{}
+
+566.0	igual#	igual							{}
+566.1	iguais#	iguais				566.0	Type=Derivation		{}
+566.2	igualmente#	igualmente				566.0	Type=Derivation		{}
+
+567.0	ilha#	ilha							{}
+567.1	ilhas#	ilhas				567.0	Type=Derivation		{}
+
+568.0	imagem#	imagem							{}
+568.1	imagens#	imagens				568.0	Type=Derivation		{}
+
+569.0	imaginativo#	imaginativo							{}
+569.1	imaginativa#	imaginativa				569.0	Type=Derivation		{}
+569.2	imaginativas#	imaginativas				569.0	Type=Derivation		{}
+569.3	imaginativos#	imaginativos				569.0	Type=Derivation		{}
+
+570.0	imperfeição#	imperfeição							{}
+570.1	imperfeições#	imperfeições				570.0	Type=Derivation		{}
+
+571.0	impessoal#	impessoal							{}
+571.1	impessoais#	impessoais				571.0	Type=Derivation		{}
+
+572.0	importante#	importante							{}
+572.1	importantes#	importantes				572.0	Type=Derivation		{}
+
+573.0	impossível#	impossível							{}
+573.1	impossivelmente#	impossivelmente				573.0	Type=Derivation		{}
+
+574.0	impressionante#	impressionante							{}
+574.1	impressionantemente#	impressionantemente				574.0	Type=Derivation		{}
+
+575.0	imputação#	imputação							{}
+575.1	imputações#	imputações				575.0	Type=Derivation		{}
+
+576.0	imunização#	imunização							{}
+576.1	imunizações#	imunizações				576.0	Type=Derivation		{}
+
+577.0	incompleto#	incompleto							{}
+577.1	incompletamente#	incompletamente				577.0	Type=Derivation		{}
+
+578.0	incorrecto#	incorrecto							{}
+578.1	incorrectamente#	incorrectamente				578.0	Type=Derivation		{}
+
+579.0	incorreto#	incorreto							{}
+579.1	incorretamente#	incorretamente				579.0	Type=Derivation		{}
+
+580.0	inculto#	inculto							{}
+580.1	inculta#	inculta				580.0	Type=Derivation		{}
+
+581.0	incêndio#	incêndio							{}
+581.1	incêndios#	incêndios				581.0	Type=Derivation		{}
+
+582.0	indemne#	indemne							{}
+582.1	indemnidade#	indemnidade				582.0	Type=Derivation		{}
+582.2	indemnizar#	indemnizar				582.0	Type=Derivation		{}
+582.3	indemnização#	indemnização				582.0	Type=Derivation		{}
+582.4	indemnizável#	indemnizável				582.0	Type=Derivation		{}
+
+583.0	indene#	indene							{}
+583.1	indenidade#	indenidade				583.0	Type=Derivation		{}
+583.2	indenizar#	indenizar				583.0	Type=Derivation		{}
+583.3	indenização#	indenização				583.0	Type=Derivation		{}
+583.4	indenizável#	indenizável				583.0	Type=Derivation		{}
+
+584.0	indiscrição#	indiscrição							{}
+584.1	indiscrições#	indiscrições				584.0	Type=Derivation		{}
+
+585.0	inerente#	inerente							{}
+585.1	inerentemente#	inerentemente				585.0	Type=Derivation		{}
+
+586.0	inevitável#	inevitável							{}
+586.1	inevitabilidade#	inevitabilidade				586.0	Type=Derivation		{}
+586.2	inevitavelmente#	inevitavelmente				586.0	Type=Derivation		{}
+
+587.0	inexorável#	inexorável							{}
+587.1	inexoravelmente#	inexoravelmente				587.0	Type=Derivation		{}
+
+588.0	inexplicável#	inexplicável							{}
+588.1	inexplicavelmente#	inexplicavelmente				588.0	Type=Derivation		{}
+
+589.0	inextricável#	inextricável							{}
+589.1	inextricavelmente#	inextricavelmente				589.0	Type=Derivation		{}
+
+590.0	infame#	infame							{}
+590.1	infamemente#	infamemente				590.0	Type=Derivation		{}
+
+591.0	infecção#	infecção							{}
+591.1	infecções#	infecções				591.0	Type=Derivation		{}
+
+592.0	inflorescência#	inflorescência							{}
+592.1	inflorescências#	inflorescências				592.0	Type=Derivation		{}
+
+593.0	informação#	informação							{}
+593.1	informações#	informações				593.0	Type=Derivation		{}
+
+594.0	inglês#	inglês							{}
+594.1	inglesa#	inglesa				594.0	Type=Derivation		{}
+
+595.0	ingratidão#	ingratidão							{}
+595.1	ingratidões#	ingratidões				595.0	Type=Derivation		{}
+
+596.0	insulina#	insulina							{}
+596.1	insulinas#	insulinas				596.0	Type=Derivation		{}
+
+597.0	integral#	integral							{}
+597.1	integrais#	integrais				597.0	Type=Derivation		{}
+
+598.0	inteligência#	inteligência							{}
+598.1	inteligências#	inteligências				598.0	Type=Derivation		{}
+
+599.0	intenção#	intenção							{}
+599.1	intenções#	intenções				599.0	Type=Derivation		{}
+
+600.0	interacção#	interacção							{}
+600.1	interacções#	interacções				600.0	Type=Derivation		{}
+
+601.0	interação#	interação							{}
+601.1	interações#	interações				601.0	Type=Derivation		{}
+
+602.0	intercambio#	intercambio							{}
+602.1	intercambios#	intercambios				602.0	Type=Derivation		{}
+
+603.0	internacional#	internacional							{}
+603.1	internacionais#	internacionais				603.0	Type=Derivation		{}
+
+604.0	intervenção#	intervenção							{}
+604.1	intervenções#	intervenções				604.0	Type=Derivation		{}
+
+605.0	introdução#	introdução							{}
+605.1	introduções#	introduções				605.0	Type=Derivation		{}
+
+606.0	invasão#	invasão							{}
+606.1	invasões#	invasões				606.0	Type=Derivation		{}
+
+607.0	inverso#	inverso							{}
+607.1	inversa#	inversa				607.0	Type=Derivation		{}
+607.2	inversas#	inversas				607.0	Type=Derivation		{}
+607.3	inversos#	inversos				607.0	Type=Derivation		{}
+
+608.0	investigação#	investigação							{}
+608.1	investigações#	investigações				608.0	Type=Derivation		{}
+
+609.0	invisível#	invisível							{}
+609.1	invisíveis#	invisíveis				609.0	Type=Derivation		{}
+
+610.0	ir#	ir							{"was_in_family_with": "1012.0"}
+610.1	irá#	irá				610.0	Type=Derivation		{}
+610.2	vai#	vai				610.0	Type=Derivation		{}
+
+611.0	irmã#	irmã							{}
+611.1	irmãs#	irmãs				611.0	Type=Derivation		{}
+
+612.0	irmão#	irmão							{}
+612.1	irmandade#	irmandade				612.0	Type=Derivation		{}
+612.2	irmãos#	irmãos				612.0	Type=Derivation		{}
+
+613.0	islandês#	islandês							{}
+613.1	islandesa#	islandesa				613.0	Type=Derivation		{}
+613.2	islandesas#	islandesas				613.0	Type=Derivation		{}
+613.3	islandeses#	islandeses				613.0	Type=Derivation		{}
+
+614.0	isopreno#	isopreno							{}
+614.1	isoprenos#	isoprenos				614.0	Type=Derivation		{}
+
+615.0	item#	item							{}
+615.1	itens#	itens				615.0	Type=Derivation		{}
+
+616.0	jabuti#	jabuti							{}
+616.1	jabutis#	jabutis				616.0	Type=Derivation		{}
+616.2	jabutizinho#	jabutizinho				616.0	Type=Derivation		{}
+
+617.0	jantar#	jantar							{}
+617.1	janatares#	janatares				617.0	Type=Derivation		{}
+
+618.0	javali#	javali							{}
+618.1	javalina#	javalina				618.0	Type=Derivation		{}
+
+619.0	jeito#	jeito							{}
+619.1	jeitos#	jeitos				619.0	Type=Derivation		{}
+
+620.0	jogar#	jogar							{}
+620.1	joga#	joga				620.0	Type=Derivation		{}
+620.2	jogais#	jogais				620.0	Type=Derivation		{}
+620.3	jogam#	jogam				620.0	Type=Derivation		{}
+620.4	jogamos#	jogamos				620.0	Type=Derivation		{}
+620.5	jogas#	jogas				620.0	Type=Derivation		{}
+620.6	jogo#	jogo				620.0	Type=Derivation		{}
+620.7	jogos#	jogos				620.6	Type=Derivation		{}
+
+621.0	joia#	joia							{}
+621.1	joias#	joias				621.0	Type=Derivation		{}
+
+622.0	jornal#	jornal							{}
+622.1	jornais#	jornais				622.0	Type=Derivation		{}
+
+623.0	jovem#	jovem							{}
+623.1	jovens#	jovens				623.0	Type=Derivation		{}
+
+624.0	juiz#	juiz							{}
+624.1	juíza#	juíza				624.0	Type=Derivation		{}
+
+625.0	julgador#	julgador							{}
+625.1	julgadora#	julgadora				625.0	Type=Derivation		{}
+
+626.0	junta#	junta							{"was_in_family_with": "627.0"}
+626.1	juntas#	juntas				626.0	Type=Derivation		{"other_parents": "627.0"}
+
+627.0	junto#	junto							{"was_in_family_with": "626.0"}
+
+628.0	justificativo#	justificativo							{}
+628.1	justificativa#	justificativa				628.0	Type=Derivation		{}
+
+629.0	labirinto#	labirinto							{}
+629.1	labirintos#	labirintos				629.0	Type=Derivation		{}
+
+630.0	laboratório#	laboratório							{}
+630.1	laboratórios#	laboratórios				630.0	Type=Derivation		{}
+630.2	laborotorial#	laborotorial				630.0	Type=Derivation		{}
+630.3	laborotorista#	laborotorista				630.0	Type=Derivation		{}
+
+631.0	laceração#	laceração							{}
+631.1	lacerações#	lacerações				631.0	Type=Derivation		{}
+
+632.0	ladrão#	ladrão							{}
+632.1	ladrões#	ladrões				632.0	Type=Derivation		{}
+
+633.0	lagarto#	lagarto							{}
+633.1	lagartos#	lagartos				633.0	Type=Derivation		{}
+
+634.0	lago#	lago							{}
+634.1	lagos#	lagos				634.0	Type=Derivation		{}
+
+635.0	lampejo#	lampejo							{}
+635.1	lampejos#	lampejos				635.0	Type=Derivation		{}
+
+636.0	lapa#	lapa							{}
+636.1	Lapa#	Lapa				636.0	Type=Derivation		{}
+
+637.0	laranjeira#	laranjeira							{}
+637.1	Laranjeiras#	Laranjeiras				637.0	Type=Derivation		{}
+
+638.0	latim#	latim							{}
+638.1	neolatim#	neolatim				638.0	Type=Derivation		{}
+
+639.0	leal#	leal							{}
+639.1	leais#	leais				639.0	Type=Derivation		{}
+639.2	lealmente#	lealmente				639.0	Type=Derivation		{}
+
+640.0	legal#	legal							{}
+640.1	legais#	legais				640.0	Type=Derivation		{}
+
+641.0	lençol#	lençol							{}
+641.1	lençóis#	lençóis				641.0	Type=Derivation		{}
+
+642.0	leoa#	leoa							{}
+642.1	leoas#	leoas				642.0	Type=Derivation		{}
+
+643.0	ler#	ler							{}
+643.1	leste#	leste				643.0	Type=Derivation		{}
+
+644.0	letra#	letra							{}
+644.1	letras#	letras				644.0	Type=Derivation		{}
+
+645.0	liberdade#	liberdade							{}
+645.1	liberdades#	liberdades				645.0	Type=Derivation		{}
+
+646.0	libidinoso#	libidinoso							{}
+646.1	libidinosa#	libidinosa				646.0	Type=Derivation		{}
+646.2	libidinosas#	libidinosas				646.0	Type=Derivation		{}
+646.3	libidinosos#	libidinosos				646.0	Type=Derivation		{}
+
+647.0	libélula#	libélula							{}
+647.1	libélulas#	libélulas				647.0	Type=Derivation		{}
+
+648.0	lido#	lido							{}
+648.1	lidas#	lidas				648.0	Type=Derivation		{}
+
+649.0	limar#	limar							{}
+649.1	lima#	lima				649.0	Type=Derivation		{}
+
+650.0	limeira#	limeira							{}
+650.1	Limeira#	Limeira				650.0	Type=Derivation		{}
+
+651.0	linguagem#	linguagem							{}
+651.1	linguageiro#	linguageiro				651.0	Type=Derivation		{}
+651.2	linguagens#	linguagens				651.0	Type=Derivation		{}
+
+652.0	lista#	lista							{}
+652.1	listagem#	listagem				652.0	Type=Derivation		{}
+652.2	listar#	listar				652.0	Type=Derivation		{}
+652.3	listário#	listário				652.0	Type=Derivation		{}
+652.4	listão#	listão				652.0	Type=Derivation		{}
+
+653.0	literário#	literário							{}
+653.1	literariamente#	literariamente				653.0	Type=Derivation		{}
+
+654.0	livro#	livro							{}
+654.1	livros#	livros				654.0	Type=Derivation		{}
+
+655.0	lição#	lição							{}
+655.1	lições#	lições				655.0	Type=Derivation		{}
+
+656.0	lobisomem#	lobisomem							{}
+656.1	lobisomens#	lobisomens				656.0	Type=Derivation		{}
+
+657.0	local#	local							{}
+657.1	locais#	locais				657.0	Type=Derivation		{}
+
+658.0	loja#	loja							{}
+658.1	lojas#	lojas				658.0	Type=Derivation		{}
+
+659.0	lousa#	lousa							{}
+659.1	Lousa#	Lousa				659.0	Type=Derivation		{}
+
+660.0	lubrificar#	lubrificar							{}
+660.1	lubrificante#	lubrificante				660.0	Type=Derivation		{}
+660.2	lubrificação#	lubrificação				660.0	Type=Derivation		{}
+
+661.0	luminoso#	luminoso							{}
+661.1	luminosamente#	luminosamente				661.0	Type=Derivation		{}
+661.2	luminosidade#	luminosidade				661.0	Type=Derivation		{}
+
+662.0	lutécio#	lutécio							{}
+662.1	lutécios#	lutécios				662.0	Type=Derivation		{}
+
+663.0	luz#	luz							{}
+663.1	luzes#	luzes				663.0	Type=Derivation		{}
+
+664.0	lábio#	lábio							{}
+664.1	labiodental#	labiodental				664.0	Type=Derivation		{}
+664.2	labionasal#	labionasal				664.0	Type=Derivation		{}
+664.3	lábios#	lábios				664.0	Type=Derivation		{}
+
+665.0	lágrima#	lágrima							{}
+665.1	lágrimas#	lágrimas				665.0	Type=Derivation		{}
+
+666.0	lâmpada#	lâmpada							{}
+666.1	lâmpadas#	lâmpadas				666.0	Type=Derivation		{}
+
+667.0	lógico#	lógico							{}
+667.1	lógica#	lógica				667.0	Type=Derivation		{}
+
+668.0	macaco#	macaco							{}
+668.1	macaquice#	macaquice				668.0	Type=Derivation		{}
+
+669.0	machado#	machado							{}
+669.1	Machado#	Machado				669.0	Type=Derivation		{}
+669.2	machada#	machada				669.0	Type=Derivation		{}
+669.3	machadada#	machadada				669.0	Type=Derivation		{}
+669.4	machadar#	machadar				669.0	Type=Derivation		{}
+669.5	machadiano#	machadiano				669.0	Type=Derivation		{}
+669.6	machadinha#	machadinha				669.0	Type=Derivation		{}
+669.7	machadinho#	machadinho				669.0	Type=Derivation		{}
+669.8	machador#	machador				669.0	Type=Derivation		{}
+669.9	machadão#	machadão				669.0	Type=Derivation		{}
+
+670.0	machucado#	machucado							{}
+670.1	machucada#	machucada				670.0	Type=Derivation		{}
+
+671.0	macio#	macio							{}
+671.1	macios#	macios				671.0	Type=Derivation		{}
+
+672.0	maconheiro#	maconheiro							{}
+672.1	maconheiros#	maconheiros				672.0	Type=Derivation		{}
+
+673.0	madeira#	madeira							{}
+673.1	Madeira#	Madeira				673.0	Type=Derivation		{}
+
+674.0	madrugada#	madrugada							{}
+674.1	madrugadas#	madrugadas				674.0	Type=Derivation		{}
+
+675.0	magnetismo#	magnetismo							{}
+675.1	geomagnetismo#	geomagnetismo				675.0	Type=Derivation		{}
+
+676.0	magnético#	magnético							{}
+676.1	magnética#	magnética				676.0	Type=Derivation		{}
+676.2	magnéticos#	magnéticos				676.0	Type=Derivation		{}
+
+677.0	majestade#	majestade							{}
+677.1	Majestade#	Majestade				677.0	Type=Derivation		{}
+
+678.0	maldição#	maldição							{}
+678.1	maldições#	maldições				678.0	Type=Derivation		{}
+
+679.0	maleável#	maleável							{}
+679.1	maleáveis#	maleáveis				679.0	Type=Derivation		{}
+
+680.0	mamilo#	mamilo							{}
+680.1	mamilos#	mamilos				680.0	Type=Derivation		{}
+
+681.0	mamoncillo#	mamoncillo							{}
+681.1	mamoncillos#	mamoncillos				681.0	Type=Derivation		{}
+
+682.0	mamute#	mamute							{}
+682.1	mamutes#	mamutes				682.0	Type=Derivation		{}
+
+683.0	mandar#	mandar							{"other_parents": "683.0"}
+
+684.0	maneira#	maneira							{}
+684.1	maneiras#	maneiras				684.0	Type=Derivation		{}
+
+685.0	mangual#	mangual							{}
+685.1	manguais#	manguais				685.0	Type=Derivation		{}
+
+686.0	manhã#	manhã							{}
+686.1	amanhã#	amanhã				686.0	Type=Derivation		{}
+686.2	manhãs#	manhãs				686.0	Type=Derivation		{}
+
+687.0	mapa#	mapa							{}
+687.1	mapas#	mapas				687.0	Type=Derivation		{}
+
+688.0	mar#	mar							{}
+688.1	mares#	mares				688.0	Type=Derivation		{}
+
+689.0	marchar#	marchar							{}
+689.1	marcha#	marcha				689.0	Type=Derivation		{}
+
+690.0	marmelo#	marmelo							{}
+690.1	marmelada#	marmelada				690.0	Type=Derivation		{}
+
+691.0	masculino#	masculino							{}
+691.1	masculinidade#	masculinidade				691.0	Type=Derivation		{}
+691.2	masculinidades#	masculinidades				691.1	Type=Derivation		{}
+
+692.0	massa#	massa							{}
+692.1	massas#	massas				692.0	Type=Derivation		{}
+
+693.0	masturbação#	masturbação							{}
+693.1	masturbações#	masturbações				693.0	Type=Derivation		{}
+
+694.0	matinê#	matinê							{}
+694.1	matinês#	matinês				694.0	Type=Derivation		{}
+
+695.0	mato#	mato							{}
+695.1	matos#	matos				695.0	Type=Derivation		{}
+
+696.0	matriz#	matriz							{}
+696.1	Matriz#	Matriz				696.0	Type=Derivation		{}
+
+697.0	maça#	maça							{}
+697.1	maças#	maças				697.0	Type=Derivation		{}
+
+698.0	maçã#	maçã							{}
+698.1	maçãs#	maçãs				698.0	Type=Derivation		{}
+
+699.0	mecânico#	mecânico							{}
+699.1	mecânica#	mecânica				699.0	Type=Derivation		{}
+699.2	mecânicas#	mecânicas				699.0	Type=Derivation		{}
+699.3	mecânicos#	mecânicos				699.0	Type=Derivation		{}
+
+700.0	mediação#	mediação							{}
+700.1	mediações#	mediações				700.0	Type=Derivation		{}
+
+701.0	megalópole#	megalópole							{}
+701.1	megalópoles#	megalópoles				701.0	Type=Derivation		{}
+
+702.0	meio#	meio							{}
+702.1	meia#	meia				702.0	Type=Derivation		{}
+
+703.0	melro#	melro							{}
+703.1	melrinho#	melrinho				703.0	Type=Derivation		{}
+
+704.0	melão#	melão							{}
+704.1	melões#	melões				704.0	Type=Derivation		{}
+
+705.0	memória#	memória							{}
+705.1	memórias#	memórias				705.0	Type=Derivation		{}
+
+706.0	menina#	menina							{}
+706.1	meninas#	meninas				706.0	Type=Derivation		{}
+
+707.0	menino#	menino							{}
+707.1	meninada#	meninada				707.0	Type=Derivation		{}
+707.2	menininho#	menininho				707.0	Type=Derivation		{}
+707.3	menininhos#	menininhos				707.2	Type=Derivation		{}
+707.4	meninos#	meninos				707.0	Type=Derivation		{}
+707.5	meninão#	meninão				707.0	Type=Derivation		{}
+707.6	meninões#	meninões				707.5	Type=Derivation		{}
+
+708.0	menstruação#	menstruação							{}
+708.1	menstruações#	menstruações				708.0	Type=Derivation		{}
+
+709.0	mental#	mental							{}
+709.1	mentalmente#	mentalmente				709.0	Type=Derivation		{}
+
+710.0	metro#	metro							{}
+710.1	metros#	metros				710.0	Type=Derivation		{}
+
+711.0	metáfora#	metáfora							{}
+711.1	metáforas#	metáforas				711.0	Type=Derivation		{}
+
+712.0	mico#	mico							{}
+712.1	micos#	micos				712.0	Type=Derivation		{}
+
+713.0	microscópio#	microscópio							{}
+713.1	microscópios#	microscópios				713.0	Type=Derivation		{}
+
+714.0	migalha#	migalha							{}
+714.1	migalhas#	migalhas				714.0	Type=Derivation		{}
+
+715.0	migração#	migração							{}
+715.1	migrações#	migrações				715.0	Type=Derivation		{}
+
+716.0	milagre#	milagre							{}
+716.1	milagres#	milagres				716.0	Type=Derivation		{}
+
+717.0	milagroso#	milagroso							{}
+717.1	milagrosamente#	milagrosamente				717.0	Type=Derivation		{}
+
+718.0	milho#	milho							{}
+718.1	milhinho#	milhinho				718.0	Type=Derivation		{}
+718.2	milhozinho#	milhozinho				718.0	Type=Derivation		{}
+718.3	milhão#	milhão				718.0	Type=Derivation		{}
+718.4	milhões#	milhões				718.3	Type=Derivation		{}
+
+719.0	milénio#	milénio							{}
+719.1	milénios#	milénios				719.0	Type=Derivation		{}
+
+720.0	milênio#	milênio							{}
+720.1	milênios#	milênios				720.0	Type=Derivation		{}
+
+721.0	minuto#	minuto							{}
+721.1	minutos#	minutos				721.0	Type=Derivation		{}
+
+722.0	missão#	missão							{}
+722.1	missões#	missões				722.0	Type=Derivation		{}
+
+723.0	miúdo#	miúdo							{}
+723.1	miúda#	miúda				723.0	Type=Derivation		{}
+723.2	miúdas#	miúdas				723.1	Type=Derivation		{"other_parents": "723.0"}
+723.3	miúdos#	miúdos				723.0	Type=Derivation		{}
+
+724.0	moeda#	moeda							{}
+724.1	moedas#	moedas				724.0	Type=Derivation		{}
+
+725.0	molhado#	molhado							{}
+725.1	molhada#	molhada				725.0	Type=Derivation		{}
+
+726.0	molho#	molho							{}
+726.1	molhos#	molhos				726.0	Type=Derivation		{}
+
+727.0	molosso#	molosso							{}
+727.1	molossos#	molossos				727.0	Type=Derivation		{}
+
+728.0	monastério#	monastério							{}
+728.1	monastérios#	monastérios				728.0	Type=Derivation		{}
+
+729.0	monitor#	monitor							{}
+729.1	monitores#	monitores				729.0	Type=Derivation		{}
+
+730.0	monstro#	monstro							{}
+730.1	monstrengo#	monstrengo				730.0	Type=Derivation		{}
+730.2	monstruosidade#	monstruosidade				730.0	Type=Derivation		{}
+730.3	monstruoso#	monstruoso				730.0	Type=Derivation		{}
+730.4	monstruosamente#	monstruosamente				730.3	Type=Derivation		{}
+
+731.0	montanha#	montanha							{}
+731.1	montanhas#	montanhas				731.0	Type=Derivation		{}
+
+732.0	monção#	monção							{}
+732.1	monções#	monções				732.0	Type=Derivation		{}
+
+733.0	monótono#	monótono							{}
+733.1	monótona#	monótona				733.0	Type=Derivation		{}
+
+734.0	morador#	morador							{}
+734.1	moradores#	moradores				734.0	Type=Derivation		{}
+
+735.0	moratório#	moratório							{}
+735.1	moratória#	moratória				735.0	Type=Derivation		{}
+
+736.0	morrinhento#	morrinhento							{}
+736.1	morrinhenta#	morrinhenta				736.0	Type=Derivation		{}
+
+737.0	movimento#	movimento							{}
+737.1	movimentos#	movimentos				737.0	Type=Derivation		{}
+
+738.0	moça#	moça							{}
+738.1	moças#	moças				738.0	Type=Derivation		{}
+
+739.0	moço#	moço							{}
+739.1	moçada#	moçada				739.0	Type=Derivation		{}
+739.2	moços#	moços				739.0	Type=Derivation		{}
+
+740.0	muito#	muito							{}
+740.1	muitas#	muitas				740.0	Type=Derivation		{}
+740.2	muitos#	muitos				740.0	Type=Derivation		{}
+
+741.0	mulher#	mulher							{}
+741.1	mulheres#	mulheres				741.0	Type=Derivation		{}
+
+742.0	mulo#	mulo							{}
+742.1	mula#	mula				742.0	Type=Derivation		{}
+
+743.0	multidão#	multidão							{}
+743.1	multidões#	multidões				743.0	Type=Derivation		{}
+
+744.0	mundial#	mundial							{}
+744.1	mundiais#	mundiais				744.0	Type=Derivation		{}
+
+745.0	museu#	museu							{}
+745.1	museus#	museus				745.0	Type=Derivation		{}
+
+746.0	mão#	mão							{}
+746.1	mãos#	mãos				746.0	Type=Derivation		{}
+
+747.0	médio#	médio							{}
+747.1	mediopalato#	mediopalato				747.0	Type=Derivation		{}
+747.2	média#	média				747.0	Type=Derivation		{}
+
+748.0	médium#	médium							{}
+748.1	mediunicamente#	mediunicamente				748.0	Type=Derivation		{}
+748.2	mediunidade#	mediunidade				748.0	Type=Derivation		{}
+748.3	mediunismo#	mediunismo				748.0	Type=Derivation		{}
+748.4	mediúnico#	mediúnico				748.0	Type=Derivation		{}
+
+749.0	míssil#	míssil							{}
+749.1	mísseis#	mísseis				749.0	Type=Derivation		{}
+
+750.0	músculo#	músculo							{}
+750.1	músculos#	músculos				750.0	Type=Derivation		{}
+
+751.0	músico#	músico							{}
+751.1	músicos#	músicos				751.0	Type=Derivation		{}
+
+752.0	nacional#	nacional							{}
+752.1	nacionalmente#	nacionalmente				752.0	Type=Derivation		{}
+
+753.0	nariz#	nariz							{}
+753.1	narizes#	narizes				753.0	Type=Derivation		{}
+
+754.0	narrativo#	narrativo							{}
+754.1	narrativa#	narrativa				754.0	Type=Derivation		{}
+
+755.0	nascimento#	nascimento							{}
+755.1	nascimentos#	nascimentos				755.0	Type=Derivation		{}
+
+756.0	natural#	natural							{}
+756.1	naturais#	naturais				756.0	Type=Derivation		{}
+
+757.0	navalha#	navalha							{}
+757.1	navalhas#	navalhas				757.0	Type=Derivation		{}
+
+758.0	nação#	nação							{}
+758.1	nações#	nações				758.0	Type=Derivation		{}
+
+759.0	nectarina#	nectarina							{}
+759.1	nectarinas#	nectarinas				759.0	Type=Derivation		{}
+
+760.0	nefasto#	nefasto							{}
+760.1	nefastas#	nefastas				760.0	Type=Derivation		{}
+760.2	nefastos#	nefastos				760.0	Type=Derivation		{}
+
+761.0	negro#	negro							{}
+761.1	negros#	negros				761.0	Type=Derivation		{}
+
+762.0	negócio#	negócio							{}
+762.1	negócios#	negócios				762.0	Type=Derivation		{}
+
+763.0	neologismo#	neologismo							{}
+763.1	neologismos#	neologismos				763.0	Type=Derivation		{}
+
+764.0	neurónio#	neurónio							{}
+764.1	neurónios#	neurónios				764.0	Type=Derivation		{}
+
+765.0	neutro#	neutro							{}
+765.1	neutra#	neutra				765.0	Type=Derivation		{}
+765.2	neutras#	neutras				765.0	Type=Derivation		{}
+765.3	neutros#	neutros				765.0	Type=Derivation		{}
+
+766.0	noite#	noite							{}
+766.1	noites#	noites				766.0	Type=Derivation		{}
+
+767.0	nominal#	nominal							{}
+767.1	nominais#	nominais				767.0	Type=Derivation		{}
+
+768.0	nordeste#	nordeste							{}
+768.1	Nordeste#	Nordeste				768.0	Type=Derivation		{}
+
+769.0	nota#	nota							{}
+769.1	notas#	notas				769.0	Type=Derivation		{}
+
+770.0	notícia#	notícia							{}
+770.1	notícias#	notícias				770.0	Type=Derivation		{}
+
+771.0	novela#	novela							{}
+771.1	radionovela#	radionovela				771.0	Type=Derivation		{}
+771.2	telenovela#	telenovela				771.0	Type=Derivation		{}
+
+772.0	nutriente#	nutriente							{}
+772.1	nutrientes#	nutrientes				772.0	Type=Derivation		{}
+
+773.0	não#	não							{}
+773.1	senão#	senão				773.0	Type=Derivation		{}
+
+774.0	nêspera#	nêspera							{}
+774.1	nêsperas#	nêsperas				774.0	Type=Derivation		{}
+
+775.0	nítido#	nítido							{}
+775.1	nítida#	nítida				775.0	Type=Derivation		{}
+
+776.0	objecção#	objecção							{}
+776.1	objecções#	objecções				776.0	Type=Derivation		{}
+
+777.0	objeto#	objeto							{}
+777.1	objetos#	objetos				777.0	Type=Derivation		{}
+
+778.0	objeção#	objeção							{}
+778.1	objeções#	objeções				778.0	Type=Derivation		{}
+
+779.0	obrigação#	obrigação							{}
+779.1	obrigações#	obrigações				779.0	Type=Derivation		{}
+
+780.0	observatório#	observatório							{}
+780.1	observatórios#	observatórios				780.0	Type=Derivation		{}
+
+781.0	obsessão#	obsessão							{}
+781.1	obsessões#	obsessões				781.0	Type=Derivation		{}
+
+782.0	obtenção#	obtenção							{}
+782.1	obtenções#	obtenções				782.0	Type=Derivation		{}
+
+783.0	oleiro#	oleiro							{}
+783.1	oleira#	oleira				783.0	Type=Derivation		{}
+
+784.0	olho#	olho							{}
+784.1	olhos#	olhos				784.0	Type=Derivation		{}
+
+785.0	onde#	onde							{"was_in_family_with": "328.0"}
+
+786.0	operação#	operação							{}
+786.1	operações#	operações				786.0	Type=Derivation		{}
+
+787.0	opção#	opção							{}
+787.1	opções#	opções				787.0	Type=Derivation		{}
+
+788.0	orfanato#	orfanato							{}
+788.1	orfanatos#	orfanatos				788.0	Type=Derivation		{}
+
+789.0	organismo#	organismo							{}
+789.1	organismos#	organismos				789.0	Type=Derivation		{}
+
+790.0	organização#	organização							{}
+790.1	organizações#	organizações				790.0	Type=Derivation		{}
+
+791.0	orgasmo#	orgasmo							{}
+791.1	orgástico#	orgástico				791.0	Type=Derivation		{}
+
+792.0	orgulhoso#	orgulhoso							{}
+792.1	orgulhosa#	orgulhosa				792.0	Type=Derivation		{}
+792.2	orgulhosas#	orgulhosas				792.0	Type=Derivation		{}
+792.3	orgulhosos#	orgulhosos				792.0	Type=Derivation		{}
+
+793.0	orientação#	orientação							{}
+793.1	orientações#	orientações				793.0	Type=Derivation		{}
+
+794.0	orvalho#	orvalho							{}
+794.1	orvalhos#	orvalhos				794.0	Type=Derivation		{}
+
+795.0	osso#	osso							{}
+795.1	ossos#	ossos				795.0	Type=Derivation		{}
+795.2	ossículo#	ossículo				795.0	Type=Derivation		{}
+
+796.0	ouro#	ouro							{}
+796.1	ouros#	ouros				796.0	Type=Derivation		{}
+
+797.0	ovo#	ovo							{}
+797.1	ovos#	ovos				797.0	Type=Derivation		{}
+
+798.0	pagão#	pagão							{}
+798.1	neopagão#	neopagão				798.0	Type=Derivation		{}
+
+799.0	paixão#	paixão							{}
+799.1	paixões#	paixões				799.0	Type=Derivation		{}
+
+800.0	palavra#	palavra							{}
+800.1	palavras#	palavras				800.0	Type=Derivation		{}
+
+801.0	palíndromo#	palíndromo							{}
+801.1	palíndromos#	palíndromos				801.0	Type=Derivation		{}
+
+802.0	panaceia#	panaceia							{}
+802.1	panaceias#	panaceias				802.0	Type=Derivation		{}
+
+803.0	pantera#	pantera							{}
+803.1	panteras#	panteras				803.0	Type=Derivation		{}
+
+804.0	papagaio#	papagaio							{}
+804.1	papagaios#	papagaios				804.0	Type=Derivation		{}
+
+805.0	papel#	papel							{}
+805.1	papéis#	papéis				805.0	Type=Derivation		{}
+
+806.0	para#	para							{}
+806.1	pra#	pra				806.0	Type=Derivation		{}
+806.2	pro#	pro				806.0	Type=Derivation		{}
+
+807.0	parafuso#	parafuso							{}
+807.1	parafusos#	parafusos				807.0	Type=Derivation		{}
+
+808.0	paranormal#	paranormal							{}
+808.1	paranormais#	paranormais				808.0	Type=Derivation		{}
+
+809.0	parecer#	parecer							{}
+809.1	pareceres#	pareceres				809.0	Type=Derivation		{}
+
+810.0	parque#	parque							{}
+810.1	parques#	parques				810.0	Type=Derivation		{}
+
+811.0	parte#	parte							{}
+811.1	partes#	partes				811.0	Type=Derivation		{}
+
+812.0	parteiro#	parteiro							{}
+812.1	parteira#	parteira				812.0	Type=Derivation		{}
+
+813.0	paróquia#	paróquia							{}
+813.1	paróquias#	paróquias				813.0	Type=Derivation		{}
+
+814.0	passeio#	passeio							{}
+814.1	passeiozinho#	passeiozinho				814.0	Type=Derivation		{}
+
+815.0	patrício#	patrício							{}
+815.1	patrícios#	patrícios				815.0	Type=Derivation		{}
+
+816.0	pau#	pau							{}
+816.1	paulada#	paulada				816.0	Type=Derivation		{}
+
+817.0	paul#	paul							{}
+817.1	pauis#	pauis				817.0	Type=Derivation		{}
+
+818.0	pecado#	pecado							{}
+818.1	pecados#	pecados				818.0	Type=Derivation		{}
+
+819.0	pedreiro#	pedreiro							{}
+819.1	pedreirinho#	pedreirinho				819.0	Type=Derivation		{}
+
+820.0	pentelho#	pentelho							{}
+820.1	pentelhos#	pentelhos				820.0	Type=Derivation		{}
+
+821.0	península#	península							{}
+821.1	penínsulas#	penínsulas				821.0	Type=Derivation		{}
+
+822.0	peral#	peral							{}
+822.1	perais#	perais				822.0	Type=Derivation		{}
+
+823.0	perca#	perca							{}
+823.1	percas#	percas				823.0	Type=Derivation		{}
+
+824.0	percebe#	percebe							{}
+824.1	percebes#	percebes				824.0	Type=Derivation		{}
+
+825.0	perder#	perder							{}
+825.1	perdedor#	perdedor				825.0	Type=Derivation		{}
+825.2	perdido#	perdido				825.0	Type=Derivation		{}
+
+826.0	perfeito#	perfeito							{}
+826.1	perfeitamente#	perfeitamente				826.0	Type=Derivation		{}
+
+827.0	perfil#	perfil							{}
+827.1	perfis#	perfis				827.0	Type=Derivation		{}
+
+828.0	pergunta#	pergunta							{}
+828.1	perguntas#	perguntas				828.0	Type=Derivation		{}
+
+829.0	perigo#	perigo							{}
+829.1	perigos#	perigos				829.0	Type=Derivation		{}
+
+830.0	perigoso#	perigoso							{}
+830.1	perigosamente#	perigosamente				830.0	Type=Derivation		{}
+
+831.0	permutação#	permutação							{}
+831.1	permutações#	permutações				831.0	Type=Derivation		{}
+
+832.0	perna#	perna							{}
+832.1	perneta#	perneta				832.0	Type=Derivation		{}
+
+833.0	perspectivo#	perspectivo							{}
+833.1	perspectiva#	perspectiva				833.0	Type=Derivation		{}
+
+834.0	período#	período							{}
+834.1	períodos#	períodos				834.0	Type=Derivation		{}
+
+835.0	pescador#	pescador							{}
+835.1	pescadores#	pescadores				835.0	Type=Derivation		{}
+
+836.0	pessoa#	pessoa							{}
+836.1	pessoas#	pessoas				836.0	Type=Derivation		{}
+
+837.0	pessoal#	pessoal							{}
+837.1	pessoais#	pessoais				837.0	Type=Derivation		{}
+
+838.0	peça#	peça							{}
+838.1	peças#	peças				838.0	Type=Derivation		{}
+
+839.0	pigidio#	pigidio							{}
+839.1	pigidios#	pigidios				839.0	Type=Derivation		{}
+
+840.0	pimenta#	pimenta							{}
+840.1	pimentinha#	pimentinha				840.0	Type=Derivation		{}
+840.2	pimentão#	pimentão				840.0	Type=Derivation		{}
+
+841.0	pintar#	pintar							{}
+841.1	pinto#	pinto				841.0	Type=Derivation		{}
+
+842.0	pintassilgo#	pintassilgo							{}
+842.1	pintassilgos#	pintassilgos				842.0	Type=Derivation		{}
+
+843.0	pipoca#	pipoca							{}
+843.1	pipocas#	pipocas				843.0	Type=Derivation		{}
+
+844.0	piramidal#	piramidal							{}
+844.1	piramidais#	piramidais				844.0	Type=Derivation		{}
+
+845.0	piroca#	piroca							{}
+845.1	pirocas#	pirocas				845.0	Type=Derivation		{}
+
+846.0	pirotécnico#	pirotécnico							{}
+846.1	pirotécnica#	pirotécnica				846.0	Type=Derivation		{}
+
+847.0	plagiador#	plagiador							{}
+847.1	plagiadora#	plagiadora				847.0	Type=Derivation		{}
+847.2	plagiadoras#	plagiadoras				847.0	Type=Derivation		{}
+847.3	plagiadores#	plagiadores				847.0	Type=Derivation		{}
+
+848.0	planalto#	planalto							{}
+848.1	Planalto#	Planalto				848.0	Type=Derivation		{}
+
+849.0	plano#	plano							{}
+849.1	aeroplano#	aeroplano				849.0	Type=Derivation		{}
+
+850.0	plasmídeo#	plasmídeo							{}
+850.1	plasmídeos#	plasmídeos				850.0	Type=Derivation		{}
+
+851.0	plástico#	plástico							{}
+851.1	plástica#	plástica				851.0	Type=Derivation		{}
+
+852.0	pneumoultramicroscopicossilicovulcanoconiose#	pneumoultramicroscopicossilicovulcanoconiose							{}
+852.1	pneumoultramicroscopicossilicovulcanoconiótico#	pneumoultramicroscopicossilicovulcanoconiótico				852.0	Type=Derivation		{}
+
+853.0	pobre#	pobre							{}
+853.1	paupérrimo#	paupérrimo				853.0	Type=Derivation		{}
+
+854.0	polinésico#	polinésico							{}
+854.1	polinésica#	polinésica				854.0	Type=Derivation		{}
+854.2	polinésicas#	polinésicas				854.0	Type=Derivation		{}
+854.3	polinésicos#	polinésicos				854.0	Type=Derivation		{}
+
+855.0	polonês#	polonês							{"was_in_family_with": "856.0"}
+
+856.0	polonêsa#	polonêsa							{"was_in_family_with": "855.0"}
+856.1	polonesas#	polonesas				856.0	Type=Derivation		{"other_parents": "855.0"}
+
+857.0	polémico#	polémico							{}
+857.1	polémicas#	polémicas				857.0	Type=Derivation		{}
+857.2	polémicos#	polémicos				857.0	Type=Derivation		{}
+
+858.0	população#	população							{}
+858.1	populações#	populações				858.0	Type=Derivation		{}
+
+859.0	por#	por							{"was_in_family_with": "904.0"}
+859.1	porque#	porque				859.0	Type=Derivation		{"other_parents": "904.0"}
+859.2	porquê#	porquê				859.0	Type=Derivation		{}
+
+860.0	porco#	porco							{}
+860.1	porcos#	porcos				860.0	Type=Derivation		{}
+
+861.0	pornografia#	pornografia							{}
+861.1	pornografias#	pornografias				861.0	Type=Derivation		{}
+
+862.0	portada#	portada							{}
+862.1	portadas#	portadas				862.0	Type=Derivation		{}
+
+863.0	porção#	porção							{}
+863.1	porções#	porções				863.0	Type=Derivation		{}
+
+864.0	possibilidade#	possibilidade							{}
+864.1	possibilidades#	possibilidades				864.0	Type=Derivation		{}
+
+865.0	pousado#	pousado							{}
+865.1	pousada#	pousada				865.0	Type=Derivation		{}
+
+866.0	poço#	poço							{}
+866.1	poços#	poços				866.0	Type=Derivation		{}
+
+867.0	prazer#	prazer							{}
+867.1	prazeres#	prazeres				867.0	Type=Derivation		{}
+
+868.0	precisar#	precisar							{}
+868.1	precisai#	precisai				868.0	Type=Derivation		{}
+868.2	precisais#	precisais				868.0	Type=Derivation		{}
+868.3	precisam#	precisam				868.0	Type=Derivation		{}
+868.4	precisamos#	precisamos				868.0	Type=Derivation		{}
+868.5	precisara#	precisara				868.0	Type=Derivation		{}
+868.6	precisaram#	precisaram				868.0	Type=Derivation		{}
+868.7	precisaras#	precisaras				868.0	Type=Derivation		{}
+868.8	precisardes#	precisardes				868.0	Type=Derivation		{}
+868.9	precisarei#	precisarei				868.0	Type=Derivation		{}
+868.10	precisareis#	precisareis				868.0	Type=Derivation		{}
+868.11	precisarem#	precisarem				868.0	Type=Derivation		{}
+868.12	precisaremos#	precisaremos				868.0	Type=Derivation		{}
+868.13	precisares#	precisares				868.0	Type=Derivation		{}
+868.14	precisaria#	precisaria				868.0	Type=Derivation		{}
+868.15	precisariam#	precisariam				868.0	Type=Derivation		{}
+868.16	precisarias#	precisarias				868.0	Type=Derivation		{}
+868.17	precisarmos#	precisarmos				868.0	Type=Derivation		{}
+868.18	precisará#	precisará				868.0	Type=Derivation		{}
+868.19	precisarás#	precisarás				868.0	Type=Derivation		{}
+868.20	precisarão#	precisarão				868.0	Type=Derivation		{}
+868.21	precisaríamos#	precisaríamos				868.0	Type=Derivation		{}
+868.22	precisaríeis#	precisaríeis				868.0	Type=Derivation		{}
+868.23	precisas#	precisas				868.0	Type=Derivation		{}
+868.24	precisasse#	precisasse				868.0	Type=Derivation		{}
+868.25	precisassem#	precisassem				868.0	Type=Derivation		{}
+868.26	precisasses#	precisasses				868.0	Type=Derivation		{}
+868.27	precisaste#	precisaste				868.0	Type=Derivation		{}
+868.28	precisastes#	precisastes				868.0	Type=Derivation		{}
+868.29	precisava#	precisava				868.0	Type=Derivation		{}
+868.30	precisavam#	precisavam				868.0	Type=Derivation		{}
+868.31	precisavas#	precisavas				868.0	Type=Derivation		{}
+868.32	precisei#	precisei				868.0	Type=Derivation		{}
+868.33	preciseis#	preciseis				868.0	Type=Derivation		{}
+868.34	precisemos#	precisemos				868.0	Type=Derivation		{}
+868.35	precises#	precises				868.0	Type=Derivation		{}
+868.36	precisou#	precisou				868.0	Type=Derivation		{}
+868.37	precisámos#	precisámos				868.0	Type=Derivation		{}
+868.38	precisáramos#	precisáramos				868.0	Type=Derivation		{}
+868.39	precisáreis#	precisáreis				868.0	Type=Derivation		{}
+868.40	precisásseis#	precisásseis				868.0	Type=Derivation		{}
+868.41	precisássemos#	precisássemos				868.0	Type=Derivation		{}
+868.42	precisávamos#	precisávamos				868.0	Type=Derivation		{}
+868.43	precisáveis#	precisáveis				868.0	Type=Derivation		{}
+
+869.0	preferência#	preferência							{}
+869.1	preferências#	preferências				869.0	Type=Derivation		{}
+
+870.0	preparação#	preparação							{}
+870.1	preparações#	preparações				870.0	Type=Derivation		{}
+
+871.0	preposição#	preposição							{}
+871.1	preposições#	preposições				871.0	Type=Derivation		{}
+
+872.0	prepúcio#	prepúcio							{}
+872.1	prepúcios#	prepúcios				872.0	Type=Derivation		{}
+
+873.0	preservativo#	preservativo							{}
+873.1	preservativa#	preservativa				873.0	Type=Derivation		{}
+873.2	preservativas#	preservativas				873.0	Type=Derivation		{}
+873.3	preservativos#	preservativos				873.0	Type=Derivation		{}
+
+874.0	preso#	preso							{}
+874.1	presa#	presa				874.0	Type=Derivation		{}
+
+875.0	pressão#	pressão							{}
+875.1	pressões#	pressões				875.0	Type=Derivation		{}
+
+876.0	primavera#	primavera							{}
+876.1	primaveras#	primaveras				876.0	Type=Derivation		{}
+
+877.0	prioridade#	prioridade							{}
+877.1	prioridades#	prioridades				877.0	Type=Derivation		{}
+
+878.0	prisioneiro#	prisioneiro							{}
+878.1	prisioneiros#	prisioneiros				878.0	Type=Derivation		{}
+
+879.0	problema#	problema							{}
+879.1	problemas#	problemas				879.0	Type=Derivation		{}
+
+880.0	professor#	professor							{}
+880.1	professores#	professores				880.0	Type=Derivation		{}
+
+881.0	projeto#	projeto							{}
+881.1	projetos#	projetos				881.0	Type=Derivation		{}
+
+882.0	pronome#	pronome							{}
+882.1	pronomes#	pronomes				882.0	Type=Derivation		{}
+
+883.0	propor#	propor							{}
+883.1	propomos#	propomos				883.0	Type=Derivation		{}
+
+884.0	proposição#	proposição							{}
+884.1	proposições#	proposições				884.0	Type=Derivation		{}
+
+885.0	prostituição#	prostituição							{}
+885.1	prostituições#	prostituições				885.0	Type=Derivation		{}
+
+886.0	protecção#	protecção							{}
+886.1	protecções#	protecções				886.0	Type=Derivation		{}
+
+887.0	proteção#	proteção							{}
+887.1	proteções#	proteções				887.0	Type=Derivation		{}
+
+888.0	prémio#	prémio							{}
+888.1	prémios#	prémios				888.0	Type=Derivation		{}
+
+889.0	prêmio#	prêmio							{}
+889.1	prêmios#	prêmios				889.0	Type=Derivation		{}
+
+890.0	próprio#	próprio							{}
+890.1	própria#	própria				890.0	Type=Derivation		{}
+
+891.0	pulmão#	pulmão							{}
+891.1	pulmões#	pulmões				891.0	Type=Derivation		{}
+
+892.0	puro#	puro							{}
+892.1	pura#	pura				892.0	Type=Derivation		{}
+
+893.0	puteiro#	puteiro							{}
+893.1	puteiros#	puteiros				893.0	Type=Derivation		{}
+
+894.0	pálpebra#	pálpebra							{}
+894.1	pálpebras#	pálpebras				894.0	Type=Derivation		{}
+
+895.0	pátrio#	pátrio							{}
+895.1	pátria#	pátria				895.0	Type=Derivation		{}
+
+896.0	pão#	pão							{}
+896.1	pães#	pães				896.0	Type=Derivation		{}
+
+897.0	pé#	pé							{}
+897.1	bípede#	bípede				897.0	Type=Derivation		{}
+897.2	octópode#	octópode				897.0	Type=Derivation		{}
+897.3	pedestal#	pedestal				897.0	Type=Derivation		{}
+897.4	pedestre#	pedestre				897.0	Type=Derivation		{}
+897.5	pedágio#	pedágio				897.0	Type=Derivation		{}
+897.6	pegada#	pegada				897.0	Type=Derivation		{}
+897.7	peão#	peão				897.0	Type=Derivation		{}
+897.8	podômetro#	podômetro				897.0	Type=Derivation		{}
+897.9	quadrúpede#	quadrúpede				897.0	Type=Derivation		{}
+
+898.0	péssimo#	péssimo							{}
+898.1	péssima#	péssima				898.0	Type=Derivation		{}
+898.2	péssimas#	péssimas				898.0	Type=Derivation		{}
+898.3	péssimos#	péssimos				898.0	Type=Derivation		{}
+
+899.0	pétala#	pétala							{}
+899.1	pétalas#	pétalas				899.0	Type=Derivation		{}
+
+900.0	pó#	pó							{}
+900.1	poeira#	poeira				900.0	Type=Derivation		{}
+
+901.0	qualidade#	qualidade							{}
+901.1	qualidades#	qualidades				901.0	Type=Derivation		{}
+
+902.0	quantidade#	quantidade							{}
+902.1	quantidades#	quantidades				902.0	Type=Derivation		{}
+
+903.0	quaresma#	quaresma							{}
+903.1	Quaresma#	Quaresma				903.0	Type=Derivation		{}
+
+904.0	que#	que							{"was_in_family_with": "859.0"}
+
+905.0	quelónio#	quelónio							{}
+905.1	quelónios#	quelónios				905.0	Type=Derivation		{}
+
+906.0	quelônio#	quelônio							{}
+906.1	quelônios#	quelônios				906.0	Type=Derivation		{}
+
+907.0	químico#	químico							{}
+907.1	bioquímico#	bioquímico				907.0	Type=Derivation		{}
+907.2	bioquímica#	bioquímica				907.1	Type=Derivation		{}
+
+908.0	rabeta#	rabeta							{}
+908.1	rabetas#	rabetas				908.0	Type=Derivation		{}
+
+909.0	rainha#	rainha							{}
+909.1	rainhas#	rainhas				909.0	Type=Derivation		{}
+
+910.0	raiz#	raiz							{}
+910.1	raízes#	raízes				910.0	Type=Derivation		{}
+
+911.0	rapariga#	rapariga							{}
+911.1	raparigas#	raparigas				911.0	Type=Derivation		{}
+
+912.0	rapaz#	rapaz							{}
+912.1	rapazes#	rapazes				912.0	Type=Derivation		{}
+912.2	rapaziada#	rapaziada				912.0	Type=Derivation		{}
+
+913.0	raso#	raso							{}
+913.1	rasos#	rasos				913.0	Type=Derivation		{}
+
+914.0	rato#	rato							{}
+914.1	ratos#	ratos				914.0	Type=Derivation		{}
+
+915.0	razão#	razão							{}
+915.1	razões#	razões				915.0	Type=Derivation		{}
+
+916.0	reacção#	reacção							{}
+916.1	reacções#	reacções				916.0	Type=Derivation		{}
+
+917.0	reação#	reação							{}
+917.1	reações#	reações				917.0	Type=Derivation		{}
+
+918.0	rebelião#	rebelião							{}
+918.1	rebeliões#	rebeliões				918.0	Type=Derivation		{}
+
+919.0	receita#	receita							{}
+919.1	receitas#	receitas				919.0	Type=Derivation		{}
+
+920.0	recepção#	recepção							{}
+920.1	recepções#	recepções				920.0	Type=Derivation		{}
+
+921.0	reconhecimento#	reconhecimento							{}
+921.1	reconhecimentos#	reconhecimentos				921.0	Type=Derivation		{}
+
+922.0	redor#	redor							{}
+922.1	arredor#	arredor				922.0	Type=Derivation		{}
+
+923.0	refeição#	refeição							{}
+923.1	refeições#	refeições				923.0	Type=Derivation		{}
+
+924.0	referência#	referência							{}
+924.1	referências#	referências				924.0	Type=Derivation		{}
+
+925.0	reflexo#	reflexo							{}
+925.1	reflexodiagnóstico#	reflexodiagnóstico				925.0	Type=Derivation		{}
+925.2	reflexologia#	reflexologia				925.0	Type=Derivation		{}
+925.3	reflexoterapia#	reflexoterapia				925.0	Type=Derivation		{}
+
+926.0	região#	região							{}
+926.1	regiões#	regiões				926.0	Type=Derivation		{}
+
+927.0	regra#	regra							{}
+927.1	regras#	regras				927.0	Type=Derivation		{}
+
+928.0	regressão#	regressão							{}
+928.1	regressões#	regressões				928.0	Type=Derivation		{}
+
+929.0	relato#	relato							{}
+929.1	relatos#	relatos				929.0	Type=Derivation		{}
+
+930.0	relação#	relação							{}
+930.1	relações#	relações				930.0	Type=Derivation		{}
+
+931.0	religioso#	religioso							{}
+931.1	religiosamente#	religiosamente				931.0	Type=Derivation		{}
+
+932.0	relógio#	relógio							{}
+932.1	relógios#	relógios				932.0	Type=Derivation		{}
+
+933.0	remoto#	remoto							{}
+933.1	remotas#	remotas				933.0	Type=Derivation		{}
+
+934.0	remédio#	remédio							{}
+934.1	remédios#	remédios				934.0	Type=Derivation		{}
+
+935.0	renegado#	renegado							{}
+935.1	renegados#	renegados				935.0	Type=Derivation		{}
+
+936.0	renúncia#	renúncia							{}
+936.1	renúncias#	renúncias				936.0	Type=Derivation		{}
+
+937.0	repolho#	repolho							{}
+937.1	repolhos#	repolhos				937.0	Type=Derivation		{}
+
+938.0	repreender#	repreender							{}
+938.1	repreensão#	repreensão				938.0	Type=Derivation		{}
+938.2	repreensões#	repreensões				938.1	Type=Derivation		{}
+
+939.0	represo#	represo							{}
+939.1	represa#	represa				939.0	Type=Derivation		{}
+
+940.0	reprodução#	reprodução							{}
+940.1	reproduções#	reproduções				940.0	Type=Derivation		{}
+
+941.0	reputação#	reputação							{}
+941.1	reputações#	reputações				941.0	Type=Derivation		{}
+
+942.0	repúblico#	repúblico							{}
+942.1	república#	república				942.0	Type=Derivation		{}
+
+943.0	resgate#	resgate							{}
+943.1	resgates#	resgates				943.0	Type=Derivation		{}
+
+944.0	residência#	residência							{}
+944.1	residências#	residências				944.0	Type=Derivation		{}
+
+945.0	resistência#	resistência							{}
+945.1	resistências#	resistências				945.0	Type=Derivation		{}
+
+946.0	ressurreição#	ressurreição							{}
+946.1	ressurreições#	ressurreições				946.0	Type=Derivation		{}
+
+947.0	restaurante#	restaurante							{}
+947.1	restaurantes#	restaurantes				947.0	Type=Derivation		{}
+
+948.0	resultado#	resultado							{}
+948.1	resultados#	resultados				948.0	Type=Derivation		{}
+
+949.0	reto#	reto							{}
+949.1	reta#	reta				949.0	Type=Derivation		{}
+
+950.0	retângulo#	retângulo							{}
+950.1	retângulos#	retângulos				950.0	Type=Derivation		{}
+
+951.0	retórico#	retórico							{}
+951.1	retórica#	retórica				951.0	Type=Derivation		{}
+
+952.0	reunião#	reunião							{}
+952.1	reuniões#	reuniões				952.0	Type=Derivation		{}
+
+953.0	revelação#	revelação							{}
+953.1	revelações#	revelações				953.0	Type=Derivation		{}
+
+954.0	revisão#	revisão							{}
+954.1	revisões#	revisões				954.0	Type=Derivation		{}
+
+955.0	revolução#	revolução							{}
+955.1	revoluções#	revoluções				955.0	Type=Derivation		{}
+
+956.0	ribeira#	ribeira							{}
+956.1	ribeiras#	ribeiras				956.0	Type=Derivation		{}
+
+957.0	ribeiro#	ribeiro							{}
+957.1	Ribeiro#	Ribeiro				957.0	Type=Derivation		{}
+957.2	ribeirinho#	ribeirinho				957.0	Type=Derivation		{}
+957.3	ribeirinhos#	ribeirinhos				957.2	Type=Derivation		{}
+957.4	ribeirinhas#	ribeirinhas				957.2	Type=Derivation		{}
+957.5	ribeirinha#	ribeirinha				957.2	Type=Derivation		{}
+957.6	ribeirão#	ribeirão				957.0	Type=Derivation		{}
+
+958.0	rigoroso#	rigoroso							{}
+958.1	rigorosa#	rigorosa				958.0	Type=Derivation		{}
+
+959.0	rimar#	rimar							{}
+959.1	rima#	rima				959.0	Type=Derivation		{}
+
+960.0	rinoceronte#	rinoceronte							{}
+960.1	rinocerontes#	rinocerontes				960.0	Type=Derivation		{}
+
+961.0	rir#	rir							{}
+961.1	rio#	rio				961.0	Type=Derivation		{}
+
+962.0	risada#	risada							{}
+962.1	risadinha#	risadinha				962.0	Type=Derivation		{}
+
+963.0	roupa#	roupa							{}
+963.1	roupas#	roupas				963.0	Type=Derivation		{}
+
+964.0	rubi#	rubi							{}
+964.1	rubis#	rubis				964.0	Type=Derivation		{}
+
+965.0	rubéolo#	rubéolo							{}
+965.1	rubéola#	rubéola				965.0	Type=Derivation		{}
+
+966.0	ruga#	ruga							{}
+966.1	rugas#	rugas				966.0	Type=Derivation		{}
+
+967.0	rã#	rã							{}
+967.1	rãs#	rãs				967.0	Type=Derivation		{}
+
+968.0	rédea#	rédea							{}
+968.1	rédeas#	rédeas				968.0	Type=Derivation		{}
+
+969.0	régua#	régua							{}
+969.1	réguas#	réguas				969.0	Type=Derivation		{}
+
+970.0	réptil#	réptil							{}
+970.1	répteis#	répteis				970.0	Type=Derivation		{}
+
+971.0	réu#	réu							{}
+971.1	corréu#	corréu				971.0	Type=Derivation		{}
+
+972.0	ríspido#	ríspido							{}
+972.1	ríspidos#	ríspidos				972.0	Type=Derivation		{}
+
+973.0	rítmico#	rítmico							{}
+973.1	rítmicos#	rítmicos				973.0	Type=Derivation		{}
+
+974.0	sabão#	sabão							{}
+974.1	sabões#	sabões				974.0	Type=Derivation		{}
+
+975.0	sacrifício#	sacrifício							{}
+975.1	sacrifícios#	sacrifícios				975.0	Type=Derivation		{}
+
+976.0	sacrilégio#	sacrilégio							{}
+976.1	sacrilégios#	sacrilégios				976.0	Type=Derivation		{}
+
+977.0	sagrado#	sagrado							{}
+977.1	sagrada#	sagrada				977.0	Type=Derivation		{}
+977.2	sagradas#	sagradas				977.0	Type=Derivation		{}
+977.3	sagrados#	sagrados				977.0	Type=Derivation		{}
+
+978.0	salmão#	salmão							{}
+978.1	salmões#	salmões				978.0	Type=Derivation		{}
+
+979.0	salsicha#	salsicha							{}
+979.1	salsichão#	salsichão				979.0	Type=Derivation		{}
+
+980.0	salvador#	salvador							{}
+980.1	salvadores#	salvadores				980.0	Type=Derivation		{}
+
+981.0	salvo#	salvo							{}
+981.1	salva#	salva				981.0	Type=Derivation		{}
+
+982.0	sandália#	sandália							{}
+982.1	sandálias#	sandálias				982.0	Type=Derivation		{}
+
+983.0	santo#	santo							{}
+983.1	Santo#	Santo				983.0	Type=Derivation		{}
+
+984.0	sapato#	sapato							{}
+984.1	sapatos#	sapatos				984.0	Type=Derivation		{}
+
+985.0	sapo#	sapo							{}
+985.1	sapinho#	sapinho				985.0	Type=Derivation		{}
+
+986.0	saturnino#	saturnino							{}
+986.1	saturnina#	saturnina				986.0	Type=Derivation		{}
+986.2	saturninas#	saturninas				986.0	Type=Derivation		{}
+986.3	saturninos#	saturninos				986.0	Type=Derivation		{}
+
+987.0	saudade#	saudade							{}
+987.1	saudades#	saudades				987.0	Type=Derivation		{}
+
+988.0	saudação#	saudação							{}
+988.1	saudações#	saudações				988.0	Type=Derivation		{}
+
+989.0	saída#	saída							{}
+989.1	saídas#	saídas				989.0	Type=Derivation		{}
+
+990.0	secretário#	secretário							{}
+990.1	secretária#	secretária				990.0	Type=Derivation		{}
+
+991.0	secção#	secção							{}
+991.1	secções#	secções				991.0	Type=Derivation		{}
+
+992.0	sedimento#	sedimento							{}
+992.1	sedimentos#	sedimentos				992.0	Type=Derivation		{}
+
+993.0	sedição#	sedição							{}
+993.1	sedições#	sedições				993.0	Type=Derivation		{}
+
+994.0	sedução#	sedução							{}
+994.1	seduções#	seduções				994.0	Type=Derivation		{}
+
+995.0	segredo#	segredo							{}
+995.1	segredos#	segredos				995.0	Type=Derivation		{}
+
+996.0	seio#	seio							{}
+996.1	seios#	seios				996.0	Type=Derivation		{}
+
+997.0	selecção#	selecção							{}
+997.1	selecções#	selecções				997.0	Type=Derivation		{}
+
+998.0	seleção#	seleção							{}
+998.1	seleçãozinha#	seleçãozinha				998.0	Type=Derivation		{}
+998.2	seleções#	seleções				998.0	Type=Derivation		{}
+
+999.0	selo#	selo							{}
+999.1	selos#	selos				999.0	Type=Derivation		{}
+
+1000.0	selva#	selva							{}
+1000.1	selvagem#	selvagem				1000.0	Type=Derivation		{}
+1000.2	selvageria#	selvageria				1000.0	Type=Derivation		{}
+1000.3	silvicultura#	silvicultura				1000.0	Type=Derivation		{}
+1000.4	silvícola#	silvícola				1000.0	Type=Derivation		{}
+
+1001.0	semanal#	semanal							{}
+1001.1	bissemanal#	bissemanal				1001.0	Type=Derivation		{}
+1001.2	quadrissemanal#	quadrissemanal				1001.0	Type=Derivation		{}
+1001.3	trissemanal#	trissemanal				1001.0	Type=Derivation		{}
+
+1002.0	semelhança#	semelhança							{}
+1002.1	semelhanças#	semelhanças				1002.0	Type=Derivation		{}
+
+1003.0	semente#	semente							{}
+1003.1	sementes#	sementes				1003.0	Type=Derivation		{}
+
+1004.0	semântico#	semântico							{}
+1004.1	semântica#	semântica				1004.0	Type=Derivation		{}
+1004.2	semânticas#	semânticas				1004.0	Type=Derivation		{}
+1004.3	semânticos#	semânticos				1004.0	Type=Derivation		{}
+
+1005.0	senhor#	senhor							{}
+1005.1	senhores#	senhores				1005.0	Type=Derivation		{}
+
+1006.0	senhora#	senhora							{}
+1006.1	senhoras#	senhoras				1006.0	Type=Derivation		{}
+
+1007.0	senhorita#	senhorita							{}
+1007.1	senhoritas#	senhoritas				1007.0	Type=Derivation		{}
+
+1008.0	sensação#	sensação							{}
+1008.1	sensações#	sensações				1008.0	Type=Derivation		{}
+
+1009.0	sensorial#	sensorial							{}
+1009.1	sensorials#	sensorials				1009.0	Type=Derivation		{}
+
+1010.0	sentimento#	sentimento							{}
+1010.1	sentimentos#	sentimentos				1010.0	Type=Derivation		{}
+
+1011.0	sequência#	sequência							{}
+1011.1	sequências#	sequências				1011.0	Type=Derivation		{}
+
+1012.0	ser#	ser							{"was_in_family_with": "610.0"}
+1012.1	era#	era				1012.0	Type=Derivation		{}
+1012.2	fomos#	fomos				1012.0	Type=Derivation		{"other_parents": "610.0"}
+1012.3	for#	for				1012.0	Type=Derivation		{"other_parents": "610.0"}
+1012.4	fora#	fora				1012.0	Type=Derivation		{}
+1012.5	fui#	fui				1012.0	Type=Derivation		{"other_parents": "610.0"}
+1012.6	somos#	somos				1012.0	Type=Derivation		{}
+
+1013.0	sermão#	sermão							{}
+1013.1	sermões#	sermões				1013.0	Type=Derivation		{}
+
+1014.0	sessão#	sessão							{}
+1014.1	sessões#	sessões				1014.0	Type=Derivation		{}
+
+1015.0	seu#	seu							{}
+1015.1	sua#	sua				1015.0	Type=Derivation		{}
+
+1016.0	sexual#	sexual							{}
+1016.1	sexuais#	sexuais				1016.0	Type=Derivation		{}
+
+1017.0	sexualidade#	sexualidade							{}
+1017.1	bissexualidade#	bissexualidade				1017.0	Type=Derivation		{}
+1017.2	heterossexualidade#	heterossexualidade				1017.0	Type=Derivation		{}
+1017.3	homossexualidade#	homossexualidade				1017.0	Type=Derivation		{}
+
+1018.0	seção#	seção							{}
+1018.1	seções#	seções				1018.0	Type=Derivation		{}
+
+1019.0	significar#	significar							{}
+1019.1	significados#	significados				1019.0	Type=Derivation		{}
+
+1020.0	silfo#	silfo							{}
+1020.1	sílfide#	sílfide				1020.0	Type=Derivation		{}
+
+1021.0	silêncio#	silêncio							{}
+1021.1	silêncios#	silêncios				1021.0	Type=Derivation		{}
+
+1022.0	simbólico#	simbólico							{}
+1022.1	simbolicamente#	simbolicamente				1022.0	Type=Derivation		{}
+
+1023.0	simples#	simples							{}
+1023.1	simplesmente#	simplesmente				1023.0	Type=Derivation		{}
+1023.2	simplicidade#	simplicidade				1023.0	Type=Derivation		{}
+1023.3	simplificar#	simplificar				1023.0	Type=Derivation		{}
+1023.4	simplista#	simplista				1023.0	Type=Derivation		{}
+1023.5	simplíssimo#	simplíssimo				1023.0	Type=Derivation		{}
+1023.6	simplório#	simplório				1023.0	Type=Derivation		{}
+
+1024.0	simpático#	simpático							{}
+1024.1	simpática#	simpática				1024.0	Type=Derivation		{}
+1024.2	simpáticas#	simpáticas				1024.0	Type=Derivation		{}
+1024.3	simpáticos#	simpáticos				1024.0	Type=Derivation		{}
+
+1025.0	simulação#	simulação							{}
+1025.1	simulações#	simulações				1025.0	Type=Derivation		{}
+
+1026.0	simultâneo#	simultâneo							{}
+1026.1	simultânea#	simultânea				1026.0	Type=Derivation		{}
+
+1027.0	sintético#	sintético							{}
+1027.1	sintéticas#	sintéticas				1027.0	Type=Derivation		{}
+1027.2	sintéticos#	sintéticos				1027.0	Type=Derivation		{}
+
+1028.0	sistemático#	sistemático							{}
+1028.1	sistemática#	sistemática				1028.0	Type=Derivation		{}
+
+1029.0	situação#	situação							{}
+1029.1	situações#	situações				1029.0	Type=Derivation		{}
+
+1030.0	soar#	soar							{}
+1030.1	soou#	soou				1030.0	Type=Derivation		{}
+
+1031.0	sofá#	sofá							{}
+1031.1	sofás#	sofás				1031.0	Type=Derivation		{}
+
+1032.0	sol#	sol							{}
+1032.1	sóis#	sóis				1032.0	Type=Derivation		{}
+
+1033.0	solidificar#	solidificar							{}
+1033.1	solidificado#	solidificado				1033.0	Type=Derivation		{}
+1033.2	solidificados#	solidificados				1033.0	Type=Derivation		{}
+
+1034.0	solstício#	solstício							{}
+1034.1	solstícios#	solstícios				1034.0	Type=Derivation		{}
+
+1035.0	soluço#	soluço							{}
+1035.1	soluços#	soluços				1035.0	Type=Derivation		{}
+
+1036.0	solução#	solução							{}
+1036.1	soluções#	soluções				1036.0	Type=Derivation		{}
+
+1037.0	som#	som							{}
+1037.1	sons#	sons				1037.0	Type=Derivation		{}
+
+1038.0	sombra#	sombra							{}
+1038.1	sombras#	sombras				1038.0	Type=Derivation		{}
+
+1039.0	sonho#	sonho							{}
+1039.1	sonhos#	sonhos				1039.0	Type=Derivation		{}
+
+1040.0	sorriso#	sorriso							{}
+1040.1	sorrisos#	sorrisos				1040.0	Type=Derivation		{}
+
+1041.0	sotaque#	sotaque							{}
+1041.1	sotaques#	sotaques				1041.0	Type=Derivation		{}
+
+1042.0	subjectivo#	subjectivo							{}
+1042.1	subjectivamente#	subjectivamente				1042.0	Type=Derivation		{}
+
+1043.0	subjetivo#	subjetivo							{}
+1043.1	subjetivamente#	subjetivamente				1043.0	Type=Derivation		{}
+
+1044.0	substância#	substância							{}
+1044.1	substâncias#	substâncias				1044.0	Type=Derivation		{}
+
+1045.0	sucuri#	sucuri							{}
+1045.1	sucuris#	sucuris				1045.0	Type=Derivation		{}
+
+1046.0	sudeste#	sudeste							{}
+1046.1	Sudeste#	Sudeste				1046.0	Type=Derivation		{}
+
+1047.0	sufixo#	sufixo							{}
+1047.1	sufixos#	sufixos				1047.0	Type=Derivation		{}
+
+1048.0	sugestão#	sugestão							{}
+1048.1	sugestões#	sugestões				1048.0	Type=Derivation		{}
+
+1049.0	suicídio#	suicídio							{}
+1049.1	suicídios#	suicídios				1049.0	Type=Derivation		{}
+
+1050.0	superfície#	superfície							{}
+1050.1	superfícies#	superfícies				1050.0	Type=Derivation		{}
+
+1051.0	superstição#	superstição							{}
+1051.1	superstições#	superstições				1051.0	Type=Derivation		{}
+
+1052.0	suplicar#	suplicar							{}
+1052.1	suplicado#	suplicado				1052.0	Type=Derivation		{}
+1052.2	suplicados#	suplicados				1052.0	Type=Derivation		{}
+
+1053.0	suposição#	suposição							{}
+1053.1	suposições#	suposições				1053.0	Type=Derivation		{}
+
+1054.0	surpreso#	surpreso							{}
+1054.1	surpresa#	surpresa				1054.0	Type=Derivation		{}
+
+1055.0	síncope#	síncope							{}
+1055.1	sincopar#	sincopar				1055.0	Type=Derivation		{}
+
+1056.0	tabela#	tabela							{}
+1056.1	tabelinha#	tabelinha				1056.0	Type=Derivation		{}
+
+1057.0	talento#	talento							{}
+1057.1	talentos#	talentos				1057.0	Type=Derivation		{}
+
+1058.0	tanto#	tanto							{}
+1058.1	tantos#	tantos				1058.0	Type=Derivation		{}
+
+1059.0	tarde#	tarde							{}
+1059.1	tardinha#	tardinha				1059.0	Type=Derivation		{}
+
+1060.0	tartaruga#	tartaruga							{}
+1060.1	tartarugas#	tartarugas				1060.0	Type=Derivation		{}
+1060.2	tartarugazinha#	tartarugazinha				1060.0	Type=Derivation		{}
+1060.3	tartarugona#	tartarugona				1060.0	Type=Derivation		{}
+1060.4	tartarugonas#	tartarugonas				1060.3	Type=Derivation		{}
+1060.5	tartaruguinha#	tartaruguinha				1060.0	Type=Derivation		{}
+1060.6	tartaruguinhas#	tartaruguinhas				1060.5	Type=Derivation		{}
+
+1061.0	tatuagem#	tatuagem							{}
+1061.1	tatuagens#	tatuagens				1061.0	Type=Derivation		{}
+
+1062.0	taça#	taça							{}
+1062.1	taças#	taças				1062.0	Type=Derivation		{}
+
+1063.0	tear#	tear							{}
+1063.1	teares#	teares				1063.0	Type=Derivation		{}
+
+1064.0	teatral#	teatral							{}
+1064.1	teatrais#	teatrais				1064.0	Type=Derivation		{}
+
+1065.0	teia#	teia							{}
+1065.1	teias#	teias				1065.0	Type=Derivation		{}
+
+1066.0	telefone#	telefone							{}
+1066.1	telefones#	telefones				1066.0	Type=Derivation		{}
+
+1067.0	telescópio#	telescópio							{}
+1067.1	telescópios#	telescópios				1067.0	Type=Derivation		{}
+
+1068.0	televisor#	televisor							{}
+1068.1	televisores#	televisores				1068.0	Type=Derivation		{}
+
+1069.0	televisão#	televisão							{}
+1069.1	televisões#	televisões				1069.0	Type=Derivation		{}
+
+1070.0	telhado#	telhado							{}
+1070.1	telhados#	telhados				1070.0	Type=Derivation		{}
+
+1071.0	temperatura#	temperatura							{}
+1071.1	temperaturas#	temperaturas				1071.0	Type=Derivation		{}
+
+1072.0	tempero#	tempero							{}
+1072.1	temperos#	temperos				1072.0	Type=Derivation		{}
+
+1073.0	tensão#	tensão							{}
+1073.1	tensões#	tensões				1073.0	Type=Derivation		{}
+
+1074.0	tentação#	tentação							{}
+1074.1	tentações#	tentações				1074.0	Type=Derivation		{}
+
+1075.0	terapêutico#	terapêutico							{}
+1075.1	terapêutica#	terapêutica				1075.0	Type=Derivation		{}
+1075.2	terapêuticas#	terapêuticas				1075.0	Type=Derivation		{"other_parents": "1075.1"}
+1075.3	terapêuticos#	terapêuticos				1075.0	Type=Derivation		{}
+
+1076.0	terminação#	terminação							{}
+1076.1	terminações#	terminações				1076.0	Type=Derivation		{}
+
+1077.0	termômetro#	termômetro							{}
+1077.1	termômetros#	termômetros				1077.0	Type=Derivation		{}
+
+1078.0	território#	território							{}
+1078.1	territórios#	territórios				1078.0	Type=Derivation		{}
+
+1079.0	terrível#	terrível							{}
+1079.1	terrivelmente#	terrivelmente				1079.0	Type=Derivation		{}
+1079.2	terríveis#	terríveis				1079.0	Type=Derivation		{}
+
+1080.0	terço#	terço							{}
+1080.1	terços#	terços				1080.0	Type=Derivation		{}
+
+1081.0	tesoura#	tesoura							{}
+1081.1	tesourinha#	tesourinha				1081.0	Type=Derivation		{}
+1081.2	tesourão#	tesourão				1081.0	Type=Derivation		{}
+
+1082.0	testudíneo#	testudíneo							{}
+1082.1	testudíneos#	testudíneos				1082.0	Type=Derivation		{}
+
+1083.0	textual#	textual							{}
+1083.1	textualmente#	textualmente				1083.0	Type=Derivation		{}
+
+1084.0	teísta#	teísta							{}
+1084.1	teístas#	teístas				1084.0	Type=Derivation		{}
+
+1085.0	tijolo#	tijolo							{}
+1085.1	tijolos#	tijolos				1085.0	Type=Derivation		{}
+
+1086.0	tingir#	tingir							{}
+1086.1	tinge#	tinge				1086.0	Type=Derivation		{}
+
+1087.0	tinido#	tinido							{}
+1087.1	tinidos#	tinidos				1087.0	Type=Derivation		{}
+
+1088.0	tipologia#	tipologia							{}
+1088.1	tipologias#	tipologias				1088.0	Type=Derivation		{}
+
+1089.0	toalha#	toalha							{}
+1089.1	toalhas#	toalhas				1089.0	Type=Derivation		{}
+
+1090.0	todo#	todo							{}
+1090.1	todos#	todos				1090.0	Type=Derivation		{}
+
+1091.0	tolo#	tolo							{}
+1091.1	tolos#	tolos				1091.0	Type=Derivation		{}
+
+1092.0	toupeira#	toupeira							{}
+1092.1	toupeiras#	toupeiras				1092.0	Type=Derivation		{}
+
+1093.0	tradição#	tradição							{}
+1093.1	tradicional#	tradicional				1093.0	Type=Derivation		{}
+1093.2	tradições#	tradições				1093.0	Type=Derivation		{}
+
+1094.0	traição#	traição							{}
+1094.1	traições#	traições				1094.0	Type=Derivation		{}
+
+1095.0	trajetória#	trajetória							{}
+1095.1	trajetórias#	trajetórias				1095.0	Type=Derivation		{}
+
+1096.0	transacção#	transacção							{}
+1096.1	transacções#	transacções				1096.0	Type=Derivation		{}
+
+1097.0	transação#	transação							{}
+1097.1	transações#	transações				1097.0	Type=Derivation		{}
+
+1098.0	transformação#	transformação							{}
+1098.1	transformações#	transformações				1098.0	Type=Derivation		{}
+
+1099.0	transição#	transição							{}
+1099.1	transições#	transições				1099.0	Type=Derivation		{}
+
+1100.0	translação#	translação							{}
+1100.1	translaçãoes#	translaçãoes				1100.0	Type=Derivation		{}
+
+1101.0	transliteração#	transliteração							{}
+1101.1	transliterações#	transliterações				1101.0	Type=Derivation		{}
+
+1102.0	trevo#	trevo							{}
+1102.1	trevilho#	trevilho				1102.0	Type=Derivation		{}
+
+1103.0	triângulo#	triângulo							{}
+1103.1	triângulos#	triângulos				1103.0	Type=Derivation		{}
+
+1104.0	trégua#	trégua							{}
+1104.1	tréguas#	tréguas				1104.0	Type=Derivation		{}
+
+1105.0	tubarão#	tubarão							{}
+1105.1	tubarões#	tubarões				1105.0	Type=Derivation		{}
+
+1106.0	tâmara#	tâmara							{}
+1106.1	tâmaras#	tâmaras				1106.0	Type=Derivation		{}
+
+1107.0	técnico#	técnico							{}
+1107.1	técnica#	técnica				1107.0	Type=Derivation		{}
+
+1108.0	tê#	tê							{}
+1108.1	tês#	tês				1108.0	Type=Derivation		{}
+
+1109.0	têmpora#	têmpora							{}
+1109.1	têmporas#	têmporas				1109.0	Type=Derivation		{}
+
+1110.0	tíbia#	tíbia							{}
+1110.1	tíbias#	tíbias				1110.0	Type=Derivation		{}
+
+1111.0	tímido#	tímido							{}
+1111.1	tímida#	tímida				1111.0	Type=Derivation		{}
+
+1112.0	ubíquo#	ubíquo							{}
+1112.1	ubiqüidade#	ubiqüidade				1112.0	Type=Derivation		{}
+
+1113.0	ultimato#	ultimato							{}
+1113.1	ultimatos#	ultimatos				1113.0	Type=Derivation		{}
+
+1114.0	umbigo#	umbigo							{}
+1114.1	umbigos#	umbigos				1114.0	Type=Derivation		{}
+
+1115.0	unicórnio#	unicórnio							{}
+1115.1	unicórnios#	unicórnios				1115.0	Type=Derivation		{}
+
+1116.0	universalidade#	universalidade							{}
+1116.1	universalidades#	universalidades				1116.0	Type=Derivation		{}
+
+1117.0	universo#	universo							{}
+1117.1	universos#	universos				1117.0	Type=Derivation		{}
+
+1118.0	união#	união							{}
+1118.1	uniões#	uniões				1118.0	Type=Derivation		{}
+
+1119.0	uísque#	uísque							{}
+1119.1	uisqueria#	uisqueria				1119.0	Type=Derivation		{}
+
+1120.0	vagar#	vagar							{}
+1120.1	vaga#	vaga				1120.0	Type=Derivation		{}
+
+1121.0	valer#	valer							{}
+1121.1	vale#	vale				1121.0	Type=Derivation		{}
+
+1122.0	varinha#	varinha							{}
+1122.1	varinhas#	varinhas				1122.0	Type=Derivation		{}
+
+1123.0	varonil#	varonil							{}
+1123.1	varonilidade#	varonilidade				1123.0	Type=Derivation		{}
+1123.2	varonis#	varonis				1123.0	Type=Derivation		{}
+
+1124.0	vassoura#	vassoura							{}
+1124.1	vassouras#	vassouras				1124.0	Type=Derivation		{}
+
+1125.0	veadinho#	veadinho							{}
+1125.1	veadinhos#	veadinhos				1125.0	Type=Derivation		{}
+
+1126.0	veado#	veado							{}
+1126.1	veados#	veados				1126.0	Type=Derivation		{}
+
+1127.0	vegetal#	vegetal							{}
+1127.1	vegetais#	vegetais				1127.0	Type=Derivation		{}
+
+1128.0	velhice#	velhice							{}
+1128.1	velhices#	velhices				1128.0	Type=Derivation		{}
+
+1129.0	velho#	velho							{}
+1129.1	velha#	velha				1129.0	Type=Derivation		{}
+1129.2	velhas#	velhas				1129.0	Type=Derivation		{}
+1129.3	velhos#	velhos				1129.0	Type=Derivation		{}
+
+1130.0	vergonha#	vergonha							{}
+1130.1	vergonhas#	vergonhas				1130.0	Type=Derivation		{}
+
+1131.0	verificação#	verificação							{}
+1131.1	verificações#	verificações				1131.0	Type=Derivation		{}
+
+1132.0	versão#	versão							{}
+1132.1	versões#	versões				1132.0	Type=Derivation		{}
+
+1133.0	vertical#	vertical							{}
+1133.1	verticalmente#	verticalmente				1133.0	Type=Derivation		{}
+
+1134.0	verão#	verão							{}
+1134.1	verões#	verões				1134.0	Type=Derivation		{}
+
+1135.0	vez#	vez							{}
+1135.1	vezes#	vezes				1135.0	Type=Derivation		{}
+
+1136.0	veículo#	veículo							{}
+1136.1	veículos#	veículos				1136.0	Type=Derivation		{}
+
+1137.0	viadinho#	viadinho							{}
+1137.1	viadinhos#	viadinhos				1137.0	Type=Derivation		{}
+
+1138.0	viado#	viado							{}
+1138.1	viados#	viados				1138.0	Type=Derivation		{}
+
+1139.0	viagem#	viagem							{}
+1139.1	viagens#	viagens				1139.0	Type=Derivation		{}
+
+1140.0	viciar#	viciar							{}
+1140.1	viciado#	viciado				1140.0	Type=Derivation		{}
+
+1141.0	videojogo#	videojogo							{}
+1141.1	videojogos#	videojogos				1141.0	Type=Derivation		{}
+
+1142.0	vinha#	vinha							{}
+1142.1	vinhas#	vinhas				1142.0	Type=Derivation		{}
+
+1143.0	vinho#	vinho							{}
+1143.1	vinhos#	vinhos				1143.0	Type=Derivation		{}
+
+1144.0	violação#	violação							{}
+1144.1	violações#	violações				1144.0	Type=Derivation		{}
+
+1145.0	violão#	violão							{}
+1145.1	violões#	violões				1145.0	Type=Derivation		{}
+
+1146.0	vir#	vir							{}
+1146.1	vem#	vem				1146.0	Type=Derivation		{}
+
+1147.0	viril#	viril							{}
+1147.1	virilidade#	virilidade				1147.0	Type=Derivation		{}
+1147.2	virilidades#	virilidades				1147.1	Type=Derivation		{}
+
+1148.0	viscoso#	viscoso							{}
+1148.1	viscosidade#	viscosidade				1148.0	Type=Derivation		{}
+
+1149.0	visual#	visual							{}
+1149.1	visuais#	visuais				1149.0	Type=Derivation		{}
+
+1150.0	visão#	visão							{}
+1150.1	visões#	visões				1150.0	Type=Derivation		{}
+
+1151.0	visível#	visível							{}
+1151.1	visivelmente#	visivelmente				1151.0	Type=Derivation		{}
+1151.2	visíveis#	visíveis				1151.0	Type=Derivation		{}
+
+1152.0	vitamina#	vitamina							{}
+1152.1	vitaminas#	vitaminas				1152.0	Type=Derivation		{}
+
+1153.0	vitória#	vitória							{}
+1153.1	vitórias#	vitórias				1153.0	Type=Derivation		{}
+
+1154.0	vivo#	vivo							{}
+1154.1	viva#	viva				1154.0	Type=Derivation		{}
+
+1155.0	vizinho#	vizinho							{}
+1155.1	vizindário#	vizindário				1155.0	Type=Derivation		{}
+1155.2	vizinhada#	vizinhada				1155.0	Type=Derivation		{}
+1155.3	vizinhança#	vizinhança				1155.0	Type=Derivation		{}
+1155.4	circunvizinhança#	circunvizinhança				1155.3	Type=Derivation		{}
+1155.5	vizinhanças#	vizinhanças				1155.3	Type=Derivation		{}
+1155.6	vizinhar#	vizinhar				1155.0	Type=Derivation		{}
+
+1156.0	viúva#	viúva							{}
+1156.1	viuvinha#	viuvinha				1156.0	Type=Derivation		{}
+
+1157.0	vocabulário#	vocabulário							{}
+1157.1	vocabulários#	vocabulários				1157.0	Type=Derivation		{}
+
+1158.0	volapuque#	volapuque							{}
+1158.1	volapuquista#	volapuquista				1158.0	Type=Derivation		{}
+
+1159.0	volume#	volume							{}
+1159.1	volumes#	volumes				1159.0	Type=Derivation		{}
+
+1160.0	voto#	voto							{}
+1160.1	votos#	votos				1160.0	Type=Derivation		{}
+
+1161.0	vulcão#	vulcão							{}
+1161.1	vulcões#	vulcões				1161.0	Type=Derivation		{}
+
+1162.0	vuvuzela#	vuvuzela							{}
+1162.1	vuvuzelas#	vuvuzelas				1162.0	Type=Derivation		{}
+
+1163.0	vário#	vário							{}
+1163.1	vários#	vários				1163.0	Type=Derivation		{}
+
+1164.0	vítima#	vítima							{}
+1164.1	vítimas#	vítimas				1164.0	Type=Derivation		{}
+
+1165.0	xadrez#	xadrez							{}
+1165.1	xadrezes#	xadrezes				1165.0	Type=Derivation		{}
+
+1166.0	zica#	zica							{}
+1166.1	zicar#	zicar				1166.0	Type=Derivation		{}
+
+1167.0	zigoto#	zigoto							{}
+1167.1	zigotos#	zigotos				1167.0	Type=Derivation		{}
+
+1168.0	zumbi#	zumbi							{}
+1168.1	zumbinismo#	zumbinismo				1168.0	Type=Derivation		{}
+1168.2	zumbizismo#	zumbizismo				1168.0	Type=Derivation		{}
+
+1169.0	ábaco#	ábaco							{}
+1169.1	abacisco#	abacisco				1169.0	Type=Derivation		{}
+1169.2	ábacos#	ábacos				1169.0	Type=Derivation		{}
+
+1170.0	água#	água							{}
+1170.1	águas#	águas				1170.0	Type=Derivation		{}
+
+1171.0	águia#	águia							{}
+1171.1	águias#	águias				1171.0	Type=Derivation		{}
+
+1172.0	árvore#	árvore							{}
+1172.1	árvores#	árvores				1172.0	Type=Derivation		{}
+
+1173.0	áspero#	áspero							{}
+1173.1	áspera#	áspera				1173.0	Type=Derivation		{}
+1173.2	ásperas#	ásperas				1173.0	Type=Derivation		{}
+1173.3	ásperos#	ásperos				1173.0	Type=Derivation		{}
+
+1174.0	áxis#	áxis							{"other_parents": "1174.0"}
+
+1175.0	âncora#	âncora							{}
+1175.1	âncoras#	âncoras				1175.0	Type=Derivation		{}
+
+1176.0	ângulo#	ângulo							{}
+1176.1	ângulos#	ângulos				1176.0	Type=Derivation		{}
+
+1177.0	ânus#	ânus							{}
+1177.1	anal#	anal				1177.0	Type=Derivation		{}
+1177.2	anais#	anais				1177.1	Type=Derivation		{}
+
+1178.0	ético#	ético							{}
+1178.1	ética#	ética				1178.0	Type=Derivation		{}
+
+1179.0	ímã#	ímã							{}
+1179.1	ímãs#	ímãs				1179.0	Type=Derivation		{}
+
+1180.0	íncubo#	íncubo							{}
+1180.1	íncubos#	íncubos				1180.0	Type=Derivation		{}
+
+1181.0	óbvio#	óbvio							{}
+1181.1	obviamente#	obviamente				1181.0	Type=Derivation		{}
+1181.2	óbvia#	óbvia				1181.0	Type=Derivation		{}
+
+1182.0	óleo#	óleo							{}
+1182.1	óleos#	óleos				1182.0	Type=Derivation		{}
+
+1183.0	órbita#	órbita							{}
+1183.1	orbital#	orbital				1183.0	Type=Derivation		{}
+1183.2	orbitar#	orbitar				1183.0	Type=Derivation		{}
+1183.3	órbitas#	órbitas				1183.0	Type=Derivation		{}
+
+1184.0	órgão#	órgão							{}
+1184.1	órgãos#	órgãos				1184.0	Type=Derivation		{}
+
+1185.0	último#	último							{}
+1185.1	última#	última				1185.0	Type=Derivation		{}
+
+1186.0	único#	único							{}
+1186.1	única#	única				1186.0	Type=Derivation		{}
+1186.2	únicas#	únicas				1186.0	Type=Derivation		{}
